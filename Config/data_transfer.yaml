@@ -1,0 +1,1915 @@
+INNER_PROJECT_DIR: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2
+augmented_data_names: []
+classes_config: yolov5\models\yolov5l.yaml
+code_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Code
+code_train_runs: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Code\runs\train
+data_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Data
+data_location_yaml: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Config\data_location.yaml
+data_yaml: yolov5\data\data_location.yaml
+destine_exp_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Data\runs\train1_results
+detects_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Data\Detects
+final_folder_names:
+- Weights
+- Launchers
+- Config
+- Data
+- Export
+hyp_yaml: yolov5\data\hyps\hyp.basic.yaml
+hyps_yaml: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Config\hyps.yaml
+imgs_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Data\images
+imgs_train_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Data\images\train
+imgs_val_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Data\images\val
+launchers_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Launchers
+lbs_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Data\labels
+lbs_train_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Data\labels\train
+lbs_val_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Data\labels\val
+new_weights: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Weights\best.pt
+params_yaml_dir: params.yaml
+pre_weights: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Weights\pre.pt
+runs_directory: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Data\runs
+train_bg:
+- 2024-06-05 15-35-48_frame_00004_erased.jpg
+- 2024-06-05 15-35-48_frame_00005_erased.jpg
+- 2024-06-05 15-35-48_frame_00006_erased.jpg
+- 2024-06-05 15-35-48_frame_00007_erased.jpg
+- 2024-06-05 15-35-48_frame_00008_erased.jpg
+- 2024-06-05 15-35-48_frame_00009_erased.jpg
+- 2024-06-05 15-35-48_frame_00010_erased.jpg
+- 2024-06-05 15-35-48_frame_00011_erased.jpg
+- 2024-06-05 15-35-48_frame_00012_erased.jpg
+- 2024-06-05 15-35-48_frame_00013_erased.jpg
+- 2024-06-05 15-35-48_frame_00014_erased.jpg
+- 2024-06-05 15-35-48_frame_00015_erased.jpg
+- 2024-06-05 15-35-48_frame_00016_erased.jpg
+- 2024-06-05 15-35-48_frame_00017_erased.jpg
+- 2024-06-05 15-35-48_frame_00018_erased.jpg
+- 2024-06-05 15-35-48_frame_00019_erased.jpg
+- 2024-06-05 15-35-48_frame_00020_erased.jpg
+- 2024-06-05 15-35-48_frame_00021_erased.jpg
+- 2024-06-05 15-35-48_frame_00022_erased.jpg
+- 2024-06-05 15-35-48_frame_00023_erased.jpg
+- 2024-06-05 15-35-48_frame_00024_erased.jpg
+- 2024-06-05 15-35-48_frame_00025_erased.jpg
+- 2024-06-05 15-35-48_frame_00026_erased.jpg
+- 2024-06-05 15-35-48_frame_00027_erased.jpg
+- 2024-06-05 15-35-48_frame_00028_erased.jpg
+- 2024-06-05 15-35-48_frame_00029_erased.jpg
+- 2024-06-05 15-35-48_frame_00030_erased.jpg
+- 2024-06-05 15-35-48_frame_00031_erased.jpg
+- 2024-06-05 15-35-48_frame_00032_erased.jpg
+- 2024-06-05 15-35-48_frame_00033_erased.jpg
+- 2024-06-05 15-35-48_frame_00034_erased.jpg
+- 2024-06-05 15-35-48_frame_00035_erased.jpg
+- 2024-06-05 15-35-48_frame_00036_erased.jpg
+- 2024-06-05 15-35-48_frame_00037_erased.jpg
+- 2024-06-05 15-35-48_frame_00038_erased.jpg
+- 2024-06-05 15-35-48_frame_00039_erased.jpg
+- 2024-06-05 15-35-48_frame_00040_erased.jpg
+- 2024-06-05 15-35-48_frame_00041_erased.jpg
+- 2024-06-05 15-35-48_frame_00042_erased.jpg
+- 2024-06-05 15-35-48_frame_00043_erased.jpg
+- 2024-06-05 15-35-48_frame_00044_erased.jpg
+- 2024-06-05 15-35-48_frame_00045_erased.jpg
+- 2024-06-05 15-35-48_frame_00046_erased.jpg
+- 2024-06-05 15-35-48_frame_00047_erased.jpg
+- 2024-06-05 15-35-48_frame_00048_erased.jpg
+- 2024-06-05 15-35-48_frame_00049_erased.jpg
+- 2024-06-05 15-35-48_frame_00050_erased.jpg
+- 2024-06-05 15-35-48_frame_00051_erased.jpg
+- 2024-06-05 15-35-48_frame_00052_erased.jpg
+- 2024-06-05 15-35-48_frame_00053_erased.jpg
+- 2024-06-05 15-35-48_frame_00054_erased.jpg
+- 2024-06-05 15-35-48_frame_00055_erased.jpg
+- 2024-06-05 15-35-48_frame_00056_erased.jpg
+- 2024-06-05 15-35-48_frame_00057_erased.jpg
+- 2024-06-05 15-35-48_frame_00058_erased.jpg
+- 2024-06-05 15-35-48_frame_00059_erased.jpg
+- 2024-06-05 15-35-48_frame_00060_erased.jpg
+- 2024-06-05 15-35-48_frame_00061_erased.jpg
+- 2024-06-05 15-35-48_frame_00062_erased.jpg
+- 2024-06-05 15-35-48_frame_00063_erased.jpg
+- 2024-06-05 15-35-48_frame_00064_erased.jpg
+- 2024-06-05 15-35-48_frame_00065_erased.jpg
+- 2024-06-05 15-35-48_frame_00066_erased.jpg
+- 2024-06-05 15-35-48_frame_00067_erased.jpg
+- 2024-06-05 15-35-48_frame_00068_erased.jpg
+- 2024-06-05 15-35-48_frame_00069_erased.jpg
+- 2024-06-05 15-35-48_frame_00070_erased.jpg
+- 2024-06-05 15-35-48_frame_00071_erased.jpg
+- 2024-06-05 15-35-48_frame_00072_erased.jpg
+- 2024-06-05 15-35-48_frame_00073_erased.jpg
+- 2024-06-05 15-35-48_frame_00074_erased.jpg
+- 2024-06-05 15-35-48_frame_00075_erased.jpg
+- 2024-06-05 15-35-48_frame_00076_erased.jpg
+- 2024-06-05 15-35-48_frame_00077_erased.jpg
+- 2024-06-05 15-35-48_frame_00078_erased.jpg
+- 2024-06-05 15-35-48_frame_00079_erased.jpg
+- 2024-06-05 15-35-48_frame_00080_erased.jpg
+- 2024-06-05 15-35-48_frame_00081_erased.jpg
+- 2024-06-05 15-35-48_frame_00082_erased.jpg
+- 2024-06-05 15-35-48_frame_00083_erased.jpg
+- 2024-06-05 15-35-48_frame_00084_erased.jpg
+- 2024-06-05 15-35-48_frame_00085_erased.jpg
+- 2024-06-05 15-35-48_frame_00086_erased.jpg
+- 2024-06-05 15-35-48_frame_00087_erased.jpg
+- 2024-06-05 15-35-48_frame_00088_erased.jpg
+- 2024-06-05 15-35-48_frame_00089_erased.jpg
+- 2024-06-05 15-35-48_frame_00090_erased.jpg
+- 2024-06-05 15-35-48_frame_00091_erased.jpg
+- 2024-06-05 15-35-48_frame_00092_erased.jpg
+- 2024-06-05 15-35-48_frame_00093_erased.jpg
+- 2024-06-05 15-35-48_frame_00094_erased.jpg
+- 2024-06-05 15-35-48_frame_00095_erased.jpg
+- 2024-06-05 15-35-48_frame_00096_erased.jpg
+- 2024-06-05 15-35-48_frame_00097_erased.jpg
+- 2024-06-05 15-35-48_frame_00098_erased.jpg
+- 2024-06-05 15-35-48_frame_00099_erased.jpg
+- 2024-06-05 15-35-48_frame_00100_erased.jpg
+- 2024-06-05 15-35-48_frame_00101_erased.jpg
+- 2024-06-05 15-35-48_frame_00102_erased.jpg
+- 2024-06-05 15-35-48_frame_00103_erased.jpg
+- 2024-06-05 15-35-48_frame_00104_erased.jpg
+- 2024-06-05 15-35-48_frame_00105_erased.jpg
+- 2024-06-05 15-35-48_frame_00106_erased.jpg
+- 2024-06-05 15-35-48_frame_00107_erased.jpg
+- 2024-06-05 15-35-48_frame_00108_erased.jpg
+- 2024-06-05 15-35-48_frame_00109_erased.jpg
+- 2024-06-05 15-35-48_frame_00110_erased.jpg
+- 2024-06-05 15-35-48_frame_00111_erased.jpg
+- 2024-06-05 15-35-48_frame_00112_erased.jpg
+- 2024-06-05 15-35-48_frame_00113_erased.jpg
+- 2024-06-05 15-35-48_frame_00114_erased.jpg
+- 2024-06-05 15-35-48_frame_00115_erased.jpg
+- 2024-06-05 15-35-48_frame_00116_erased.jpg
+- 2024-06-05 15-35-48_frame_00117_erased.jpg
+- 2024-06-05 15-35-48_frame_00118_erased.jpg
+- 2024-06-05 15-35-48_frame_00119_erased.jpg
+- 2024-06-05 15-35-48_frame_00120_erased.jpg
+- 2024-06-05 15-35-48_frame_00121_erased.jpg
+- 2024-06-05 15-35-48_frame_00122_erased.jpg
+- 2024-06-05 15-35-48_frame_00123_erased.jpg
+- 2024-06-05 15-35-48_frame_00124_erased.jpg
+- 2024-06-05 15-35-48_frame_00125_erased.jpg
+- 2024-06-05 15-35-48_frame_00126_erased.jpg
+- 2024-06-05 15-35-48_frame_00127_erased.jpg
+- 2024-06-05 15-35-48_frame_00128_erased.jpg
+- 2024-06-05 15-35-48_frame_00129_erased.jpg
+- 2024-06-05 15-35-48_frame_00130_erased.jpg
+- 2024-06-05 15-35-48_frame_00131_erased.jpg
+- 2024-06-05 15-35-48_frame_00132_erased.jpg
+- 2024-06-05 15-35-48_frame_00133_erased.jpg
+- 2024-06-05 15-35-48_frame_00134_erased.jpg
+- 2024-06-05 15-35-48_frame_00135_erased.jpg
+- 2024-06-05 15-35-48_frame_00136_erased.jpg
+- 2024-06-05 15-35-48_frame_00137_erased.jpg
+- 2024-06-05 15-35-48_frame_00138_erased.jpg
+- 2024-06-05 15-35-48_frame_00139_erased.jpg
+- 2024-06-05 15-35-48_frame_00140_erased.jpg
+- 2024-06-05 15-35-48_frame_00141_erased.jpg
+- 2024-06-05 15-35-48_frame_00142_erased.jpg
+- 2024-06-05 15-35-48_frame_00143_erased.jpg
+- 2024-06-05 15-35-48_frame_00144_erased.jpg
+- 2024-06-05 15-35-48_frame_00145_erased.jpg
+- 2024-06-05 15-35-48_frame_00146_erased.jpg
+- 2024-06-05 15-35-48_frame_00147_erased.jpg
+- 2024-06-05 15-35-48_frame_00148_erased.jpg
+- 2024-06-05 15-35-48_frame_00149_erased.jpg
+- 2024-06-05 15-35-48_frame_00150_erased.jpg
+- 2024-06-05 15-35-48_frame_00151_erased.jpg
+- 2024-06-05 15-35-48_frame_00152_erased.jpg
+- 2024-06-05 15-35-48_frame_00153_erased.jpg
+- 2024-06-05 15-35-48_frame_00154_erased.jpg
+- 2024-06-05 15-35-48_frame_00155_erased.jpg
+- 2024-06-05 15-35-48_frame_00156_erased.jpg
+- 2024-06-05 15-35-48_frame_00157_erased.jpg
+- 2024-06-05 15-35-48_frame_00158_erased.jpg
+- 2024-06-05 15-35-48_frame_00159_erased.jpg
+- 2024-06-05 15-35-48_frame_00160_erased.jpg
+- 2024-06-05 15-35-48_frame_00161_erased.jpg
+- 2024-06-05 15-35-48_frame_00162_erased.jpg
+- 2024-06-05 15-35-48_frame_00163_erased.jpg
+- 2024-06-05 15-35-48_frame_00164_erased.jpg
+- 2024-06-05 15-35-48_frame_00165_erased.jpg
+- 2024-06-05 15-35-48_frame_00166_erased.jpg
+- 2024-06-05 15-35-48_frame_00167_erased.jpg
+- 2024-06-05 15-35-48_frame_00168_erased.jpg
+- 2024-06-05 15-35-48_frame_00169_erased.jpg
+- 2024-06-05 15-35-48_frame_00170_erased.jpg
+- 2024-06-05 15-35-48_frame_00171_erased.jpg
+- 2024-06-05 15-35-48_frame_00172_erased.jpg
+- 2024-06-05 15-35-48_frame_00173_erased.jpg
+- 2024-06-05 15-35-48_frame_00174_erased.jpg
+- 2024-06-05 15-35-48_frame_00175_erased.jpg
+- 2024-06-05 15-35-48_frame_00176_erased.jpg
+- 2024-06-05 15-35-48_frame_00177_erased.jpg
+- 2024-06-05 15-35-48_frame_00178_erased.jpg
+- 2024-06-05 15-35-48_frame_00179_erased.jpg
+- 2024-06-05 15-35-48_frame_00180_erased.jpg
+- 2024-06-05 15-35-48_frame_00181_erased.jpg
+- 2024-06-05 15-35-48_frame_00182_erased.jpg
+- 2024-06-05 15-35-48_frame_00183_erased.jpg
+- 2024-06-05 15-35-48_frame_00184_erased.jpg
+- 2024-06-05 15-35-48_frame_00185_erased.jpg
+- 2024-06-05 15-35-48_frame_00186_erased.jpg
+- 2024-06-05 15-35-48_frame_00187_erased.jpg
+- 2024-06-05 15-35-48_frame_00188_erased.jpg
+- 2024-06-05 15-35-48_frame_00189_erased.jpg
+- 2024-06-05 15-35-48_frame_00190_erased.jpg
+- 2024-06-05 15-35-48_frame_00191_erased.jpg
+- 2024-06-05 15-35-48_frame_00192_erased.jpg
+- 2024-06-05 15-35-48_frame_00193_erased.jpg
+- 2024-06-05 15-35-48_frame_00194_erased.jpg
+- 2024-06-05 15-35-48_frame_00195_erased.jpg
+- 2024-06-05 15-35-48_frame_00196_erased.jpg
+- 2024-06-05 15-35-48_frame_00197_erased.jpg
+- 2024-06-05 15-35-48_frame_00198_erased.jpg
+- 2024-06-05 15-35-48_frame_00199_erased.jpg
+- 2024-06-05 15-35-48_frame_00200_erased.jpg
+- 2024-06-05 15-35-48_frame_00201_erased.jpg
+- 2024-06-05 15-35-48_frame_00202_erased.jpg
+- 2024-06-05 15-35-48_frame_00203_erased.jpg
+- 2024-06-05 15-35-48_frame_00204_erased.jpg
+- 2024-06-05 15-35-48_frame_00205_erased.jpg
+- 2024-06-05 15-35-48_frame_00206_erased.jpg
+- 2024-06-05 15-35-48_frame_00207_erased.jpg
+- 2024-06-05 15-35-48_frame_00208_erased.jpg
+- 2024-06-05 15-35-48_frame_00209_erased.jpg
+- 2024-06-05 15-35-48_frame_00210_erased.jpg
+- 2024-06-05 15-35-48_frame_00211_erased.jpg
+- 2024-06-05 15-35-48_frame_00212_erased.jpg
+- 2024-06-05 15-35-48_frame_00213_erased.jpg
+- 2024-06-05 15-35-48_frame_00214_erased.jpg
+- 2024-06-05 15-35-48_frame_00215_erased.jpg
+- 2024-06-05 15-35-48_frame_00216_erased.jpg
+- 2024-06-05 15-35-48_frame_00217_erased.jpg
+- 2024-06-05 15-35-48_frame_00218_erased.jpg
+- 2024-06-05 15-35-48_frame_00219_erased.jpg
+- 2024-06-05 15-35-48_frame_00220_erased.jpg
+- 2024-06-05 15-35-48_frame_00221_erased.jpg
+- 2024-06-05 15-35-48_frame_00222_erased.jpg
+- 2024-06-05 15-35-48_frame_00223_erased.jpg
+- 2024-06-05 15-35-48_frame_00224_erased.jpg
+- 2024-06-05 15-35-48_frame_00225_erased.jpg
+- 2024-06-05 15-35-48_frame_00226_erased.jpg
+- 2024-06-05 15-35-48_frame_00227_erased.jpg
+- 2024-06-05 15-35-48_frame_00228_erased.jpg
+- 2024-06-05 15-35-48_frame_00229_erased.jpg
+- 2024-06-05 15-35-48_frame_00230_erased.jpg
+- 2024-06-05 15-35-48_frame_00231_erased.jpg
+- 2024-06-05 15-35-48_frame_00232_erased.jpg
+- 2024-06-05 15-35-48_frame_00233_erased.jpg
+- 2024-06-05 15-35-48_frame_00234_erased.jpg
+- 2024-06-05 15-35-48_frame_00235_erased.jpg
+- 2024-06-05 15-35-48_frame_00236_erased.jpg
+- 2024-06-05 15-35-48_frame_00237_erased.jpg
+- 2024-06-05 15-35-48_frame_00238_erased.jpg
+- 2024-06-05 15-35-48_frame_01999_erased.jpg
+- 2024-06-05 15-35-48_frame_02000_erased.jpg
+- 2024-06-05 15-35-48_frame_02001_erased.jpg
+- 2024-06-05 15-35-48_frame_02002_erased.jpg
+- 2024-06-05 15-35-48_frame_02003_erased.jpg
+- 2024-06-05 15-35-48_frame_02004_erased.jpg
+- 2024-06-05 15-35-48_frame_02005_erased.jpg
+- 2024-06-05 15-35-48_frame_02006_erased.jpg
+- 2024-06-05 15-35-48_frame_02007_erased.jpg
+- 2024-06-05 15-35-48_frame_02008_erased.jpg
+- 2024-06-05 15-35-48_frame_02009_erased.jpg
+- 2024-06-05 15-35-48_frame_02010_erased.jpg
+- 2024-06-05 15-35-48_frame_02011_erased.jpg
+- 2024-06-05 15-35-48_frame_02012_erased.jpg
+- 2024-06-05 15-35-48_frame_02013_erased.jpg
+- 2024-06-05 15-35-48_frame_02014_erased.jpg
+- 2024-06-05 15-35-48_frame_02015_erased.jpg
+- 2024-06-05 15-35-48_frame_02016_erased.jpg
+- 2024-06-05 15-35-48_frame_02017_erased.jpg
+- 2024-06-05 15-35-48_frame_02018_erased.jpg
+- 2024-06-05 15-35-48_frame_02019_erased.jpg
+- 2024-06-05 15-35-48_frame_02020_erased.jpg
+- 2024-06-05 15-35-48_frame_02021_erased.jpg
+- 2024-06-05 15-35-48_frame_02022_erased.jpg
+- 2024-06-05 15-35-48_frame_02023_erased.jpg
+- 2024-06-05 15-35-48_frame_02024_erased.jpg
+- 2024-06-05 15-35-48_frame_02025_erased.jpg
+- 2024-06-05 15-35-48_frame_02026_erased.jpg
+- 2024-06-05 15-35-48_frame_02027_erased.jpg
+- 2024-06-05 15-35-48_frame_02028_erased.jpg
+- 2024-06-05 15-35-48_frame_02029_erased.jpg
+- 2024-06-05 15-35-48_frame_02030_erased.jpg
+- 2024-06-05 15-35-48_frame_02031_erased.jpg
+- 2024-06-05 15-35-48_frame_02032_erased.jpg
+- 2024-06-05 15-35-48_frame_02033_erased.jpg
+- 2024-06-05 15-35-48_frame_02034_erased.jpg
+- 2024-06-05 15-35-48_frame_02035_erased.jpg
+- 2024-06-05 15-35-48_frame_02036_erased.jpg
+- 2024-06-05 15-35-48_frame_02037_erased.jpg
+- 2024-06-05 15-35-48_frame_02038_erased.jpg
+- 2024-06-05 15-35-48_frame_02039_erased.jpg
+- 2024-06-05 15-35-48_frame_02040_erased.jpg
+- 2024-06-05 15-35-48_frame_02041_erased.jpg
+- 2024-06-05 15-35-48_frame_02042_erased.jpg
+- 2024-06-05 15-35-48_frame_02043_erased.jpg
+- 2024-06-05 15-35-48_frame_02044_erased.jpg
+- 2024-06-05 15-35-48_frame_02045_erased.jpg
+- 2024-06-05 15-35-48_frame_02070_erased.jpg
+- 2024-06-05 15-35-48_frame_02071_erased.jpg
+- 2024-06-05 15-35-48_frame_02072_erased.jpg
+- 2024-06-05 15-35-48_frame_02073_erased.jpg
+- 2024-06-05 15-35-48_frame_02074_erased.jpg
+- 2024-06-05 15-35-48_frame_02075_erased.jpg
+- 2024-06-05 15-35-48_frame_02076_erased.jpg
+- 2024-06-05 15-35-48_frame_02077_erased.jpg
+- 2024-06-05 15-35-48_frame_02078_erased.jpg
+- 2024-06-05 15-35-48_frame_02079_erased.jpg
+- 2024-06-05 15-35-48_frame_02080_erased.jpg
+- 2024-06-05 15-35-48_frame_02081_erased.jpg
+- 2024-06-05 15-35-48_frame_02082_erased.jpg
+- 2024-06-05 15-35-48_frame_02083_erased.jpg
+- 2024-06-05 15-35-48_frame_02084_erased.jpg
+- 2024-06-05 15-35-48_frame_02085_erased.jpg
+- 2024-06-05 15-35-48_frame_02086_erased.jpg
+- 2024-06-05 15-35-48_frame_02087_erased.jpg
+- 2024-06-05 15-35-48_frame_02088_erased.jpg
+- 2024-06-05 15-35-48_frame_02089_erased.jpg
+- 2024-06-05 15-35-48_frame_02090_erased.jpg
+- 2024-06-05 15-35-48_frame_02091_erased.jpg
+- 2024-06-05 15-35-48_frame_02092_erased.jpg
+- 2024-06-05 15-35-48_frame_02093_erased.jpg
+- 2024-06-05 15-35-48_frame_02094_erased.jpg
+- 2024-06-05 15-35-48_frame_02095_erased.jpg
+- 2024-06-05 15-35-48_frame_02096_erased.jpg
+- 2024-06-05 15-35-48_frame_02097_erased.jpg
+- 2024-06-05 15-35-48_frame_02098_erased.jpg
+- 2024-06-05 15-35-48_frame_02099_erased.jpg
+- 2024-06-05 15-35-48_frame_02100_erased.jpg
+- 2024-06-05 15-35-48_frame_02101_erased.jpg
+- 2024-06-05 15-35-48_frame_02102_erased.jpg
+- 2024-06-05 15-35-48_frame_02103_erased.jpg
+- 2024-06-05 15-35-48_frame_02104_erased.jpg
+- 2024-06-05 15-35-48_frame_02105_erased.jpg
+- 2024-06-05 15-35-48_frame_02106_erased.jpg
+- 2024-06-05 15-35-48_frame_02107_erased.jpg
+- 2024-06-05 15-35-48_frame_02108_erased.jpg
+- 2024-06-05 15-35-48_frame_02109_erased.jpg
+- 2024-06-05 15-35-48_frame_02110_erased.jpg
+- 2024-06-05 15-35-48_frame_02111_erased.jpg
+- 2024-06-05 15-35-48_frame_02112_erased.jpg
+- 2024-06-05 15-35-48_frame_02113_erased.jpg
+- 2024-06-05 15-35-48_frame_02114_erased.jpg
+- 2024-06-05 15-35-48_frame_02115_erased.jpg
+- 2024-06-05 15-35-48_frame_02116_erased.jpg
+- 2024-06-05 15-35-48_frame_02117_erased.jpg
+- 2024-06-05 15-35-48_frame_02118_erased.jpg
+- 2024-06-05 15-35-48_frame_02119_erased.jpg
+- 2024-06-05 15-35-48_frame_02120_erased.jpg
+- 2024-06-05 15-35-48_frame_02121_erased.jpg
+- 2024-06-05 15-35-48_frame_02122_erased.jpg
+- 2024-06-05 15-35-48_frame_02123_erased.jpg
+- 2024-06-05 15-35-48_frame_02124_erased.jpg
+- 2024-06-05 15-35-48_frame_02125_erased.jpg
+- 2024-06-05 15-35-48_frame_02126_erased.jpg
+- 2024-06-05 15-35-48_frame_02127_erased.jpg
+- 2024-06-05 15-35-48_frame_02128_erased.jpg
+- 2024-06-05 15-35-48_frame_02129_erased.jpg
+- 2024-06-05 15-35-48_frame_02130_erased.jpg
+- 2024-06-05 15-35-48_frame_02131_erased.jpg
+- 2024-06-05 15-35-48_frame_02132_erased.jpg
+- 2024-06-05 15-35-48_frame_02133_erased.jpg
+- 2024-06-05 15-35-48_frame_02134_erased.jpg
+- 2024-06-05 15-35-48_frame_02135_erased.jpg
+- 2024-06-05 15-35-48_frame_02136_erased.jpg
+- 2024-06-05 15-35-48_frame_02137_erased.jpg
+- 2024-06-05 15-35-48_frame_02138_erased.jpg
+- 2024-06-05 15-35-48_frame_02139_erased.jpg
+- 2024-06-05 15-35-48_frame_02140_erased.jpg
+- 2024-06-05 15-35-48_frame_02141_erased.jpg
+- 2024-06-05 15-35-48_frame_02142_erased.jpg
+- 2024-06-05 15-35-48_frame_02143_erased.jpg
+- 2024-06-05 15-35-48_frame_02144_erased.jpg
+- 2024-06-05 15-35-48_frame_02145_erased.jpg
+- 2024-06-05 15-35-48_frame_02146_erased.jpg
+- 2024-06-05 15-35-48_frame_02147_erased.jpg
+- 2024-06-05 15-35-48_frame_02148_erased.jpg
+- 2024-06-05 15-35-48_frame_02149_erased.jpg
+- 2024-06-05 15-35-48_frame_02150_erased.jpg
+- 2024-06-05 15-35-48_frame_02151_erased.jpg
+- 2024-06-05 15-35-48_frame_02152_erased.jpg
+- 2024-06-05 15-35-48_frame_02153_erased.jpg
+- 2024-06-05 15-35-48_frame_02154_erased.jpg
+- 2024-06-05 15-35-48_frame_02155_erased.jpg
+- 2024-06-05 15-35-48_frame_02156_erased.jpg
+- 2024-06-05 15-35-48_frame_02157_erased.jpg
+- 2024-06-05 15-35-48_frame_02158_erased.jpg
+- 2024-06-05 15-35-48_frame_02159_erased.jpg
+- 2024-06-05 15-35-48_frame_02160_erased.jpg
+- 2024-06-05 15-35-48_frame_02161_erased.jpg
+- 2024-06-05 15-35-48_frame_02162_erased.jpg
+- 2024-06-05 15-35-48_frame_02163_erased.jpg
+- 2024-06-05 15-35-48_frame_02164_erased.jpg
+- 2024-06-05 15-35-48_frame_02165_erased.jpg
+- 2024-06-05 15-35-48_frame_02166_erased.jpg
+- 2024-06-05 15-35-48_frame_02167_erased.jpg
+- 2024-06-05 15-35-48_frame_02168_erased.jpg
+- 2024-06-05 15-35-48_frame_02169_erased.jpg
+- 2024-06-05 15-35-48_frame_02170_erased.jpg
+- 2024-06-05 15-35-48_frame_02171_erased.jpg
+- 2024-06-05 15-35-48_frame_02172_erased.jpg
+- 2024-06-05 15-35-48_frame_02173_erased.jpg
+- 2024-06-05 15-35-48_frame_02174_erased.jpg
+- 2024-06-05 15-35-48_frame_02175_erased.jpg
+- 2024-06-05 15-35-48_frame_02176_erased.jpg
+- 2024-06-05 15-35-48_frame_02177_erased.jpg
+- 2024-06-05 15-35-48_frame_02178_erased.jpg
+- 2024-06-05 15-35-48_frame_02179_erased.jpg
+- 2024-06-05 15-35-48_frame_02180_erased.jpg
+- 2024-06-05 15-35-48_frame_02181_erased.jpg
+- 2024-06-05 15-35-48_frame_02182_erased.jpg
+- 2024-06-05 15-35-48_frame_02183_erased.jpg
+- 2024-06-05 15-35-48_frame_02184_erased.jpg
+- 2024-06-05 15-35-48_frame_02185_erased.jpg
+- 2024-06-05 15-35-48_frame_02186_erased.jpg
+- 2024-06-05 15-35-48_frame_02187_erased.jpg
+- 2024-06-05 15-35-48_frame_02188_erased.jpg
+- 2024-06-05 15-35-48_frame_02189_erased.jpg
+- 2024-06-05 15-35-48_frame_02190_erased.jpg
+- 2024-06-05 15-35-48_frame_02191_erased.jpg
+- 2024-06-05 15-35-48_frame_02192_erased.jpg
+- 2024-06-05 15-35-48_frame_02193_erased.jpg
+- 2024-06-05 15-35-48_frame_02194_erased.jpg
+- 2024-06-05 15-35-48_frame_02195_erased.jpg
+- 2024-06-05 15-35-48_frame_02196_erased.jpg
+- 2024-06-05 15-35-48_frame_02197_erased.jpg
+- 2024-06-05 15-35-48_frame_02198_erased.jpg
+- 2024-06-05 15-35-48_frame_02199_erased.jpg
+- 2024-06-05 15-35-48_frame_02200_erased.jpg
+- 2024-06-05 15-35-48_frame_02201_erased.jpg
+- 2024-06-05 15-35-48_frame_02202_erased.jpg
+- 2024-06-05 15-35-48_frame_02203_erased.jpg
+- 2024-06-05 15-35-48_frame_02204_erased.jpg
+- 2024-06-05 15-35-48_frame_02205_erased.jpg
+- 2024-06-05 15-35-48_frame_02206_erased.jpg
+- 2024-06-05 15-35-48_frame_02207_erased.jpg
+- 2024-06-05 15-35-48_frame_02208_erased.jpg
+- 2024-06-05 15-35-48_frame_02209_erased.jpg
+- 2024-06-05 15-35-48_frame_02210_erased.jpg
+- 2024-06-05 15-35-48_frame_02211_erased.jpg
+- 2024-06-05 15-35-48_frame_02212_erased.jpg
+- 2024-06-05 15-35-48_frame_02213_erased.jpg
+- 2024-06-05 15-35-48_frame_02214_erased.jpg
+- 2024-06-05 15-35-48_frame_02215_erased.jpg
+- 2024-06-05 15-35-48_frame_02216_erased.jpg
+- 2024-06-05 15-35-48_frame_02217_erased.jpg
+- 2024-06-05 15-35-48_frame_02218_erased.jpg
+- 2024-06-05 15-35-48_frame_02219_erased.jpg
+- 2024-06-05 15-35-48_frame_02220_erased.jpg
+- 2024-06-05 15-35-48_frame_02221_erased.jpg
+- 2024-06-05 15-35-48_frame_02222_erased.jpg
+- 2024-06-05 15-35-48_frame_02223_erased.jpg
+- 2024-06-05 15-35-48_frame_02224_erased.jpg
+- 2024-06-05 15-35-48_frame_02225_erased.jpg
+- 2024-06-05 15-35-48_frame_02226_erased.jpg
+- 2024-06-05 15-35-48_frame_02227_erased.jpg
+- 2024-06-05 15-35-48_frame_02228_erased.jpg
+- 2024-06-05 15-35-48_frame_02229_erased.jpg
+- 2024-06-05 15-35-48_frame_02230_erased.jpg
+- 2024-06-05 15-35-48_frame_02231_erased.jpg
+- 2024-06-05 15-35-48_frame_02232_erased.jpg
+- 2024-06-05 15-35-48_frame_02233_erased.jpg
+- 2024-06-05 15-35-48_frame_02234_erased.jpg
+- 2024-06-05 15-35-48_frame_02235_erased.jpg
+- 2024-06-05 15-35-48_frame_02236_erased.jpg
+- 2024-06-05 15-35-48_frame_02237_erased.jpg
+- 2024-06-05 15-35-48_frame_02238_erased.jpg
+- 2024-06-05 15-35-48_frame_02239_erased.jpg
+- 2024-06-05 15-35-48_frame_02240_erased.jpg
+- 2024-06-05 15-35-48_frame_02241_erased.jpg
+- 2024-06-05 15-35-48_frame_02242_erased.jpg
+- 2024-06-05 15-35-48_frame_02243_erased.jpg
+- 2024-06-05 15-35-48_frame_02244_erased.jpg
+- 2024-06-05 15-35-48_frame_02245_erased.jpg
+- 2024-06-05 15-35-48_frame_02246_erased.jpg
+- 2024-06-05 15-35-48_frame_02247_erased.jpg
+- 2024-06-05 15-35-48_frame_02248_erased.jpg
+- 2024-06-05 15-35-48_frame_02249_erased.jpg
+- 2024-06-05 15-35-48_frame_02250_erased.jpg
+- 2024-06-05 15-35-48_frame_02251_erased.jpg
+- 2024-06-05 15-35-48_frame_02252_erased.jpg
+- 2024-06-05 15-35-48_frame_02253_erased.jpg
+- 2024-06-05 15-35-48_frame_02254_erased.jpg
+- 2024-06-05 15-35-48_frame_02255_erased.jpg
+- 2024-06-05 15-35-48_frame_02256_erased.jpg
+- 2024-06-05 15-35-48_frame_02257_erased.jpg
+- 2024-06-05 15-35-48_frame_02258_erased.jpg
+- 2024-06-05 15-35-48_frame_02259_erased.jpg
+- 2024-06-05 15-35-48_frame_02260_erased.jpg
+- 2024-06-05 15-35-48_frame_02261_erased.jpg
+- 2024-06-05 15-35-48_frame_02262_erased.jpg
+- 2024-06-05 15-35-48_frame_02263_erased.jpg
+- 2024-06-05 15-35-48_frame_02264_erased.jpg
+- 2024-06-05 15-35-48_frame_02265_erased.jpg
+- 2024-06-05 15-35-48_frame_02266_erased.jpg
+- 2024-06-05 15-35-48_frame_02267_erased.jpg
+- 2024-06-05 15-35-48_frame_02268_erased.jpg
+- 2024-06-05 15-35-48_frame_02269_erased.jpg
+- 2024-06-05 15-35-48_frame_02270_erased.jpg
+- 2024-06-05 15-35-48_frame_02271_erased.jpg
+- 2024-06-05 15-35-48_frame_02272_erased.jpg
+- 2024-06-05 15-35-48_frame_02273_erased.jpg
+- 2024-06-05 15-35-48_frame_02274_erased.jpg
+- 2024-06-05 15-35-48_frame_02275_erased.jpg
+- 2024-06-05 15-35-48_frame_02276_erased.jpg
+- 2024-06-05 15-35-48_frame_02277_erased.jpg
+- 2024-06-05 15-35-48_frame_02278_erased.jpg
+- 2024-06-05 15-35-48_frame_02279_erased.jpg
+- 2024-06-05 15-35-48_frame_02280_erased.jpg
+- 2024-06-05 15-35-48_frame_02281_erased.jpg
+- 2024-06-05 15-35-48_frame_02282_erased.jpg
+- 2024-06-05 15-35-48_frame_02283_erased.jpg
+- 2024-06-05 15-35-48_frame_02284_erased.jpg
+- 2024-06-05 15-35-48_frame_02285_erased.jpg
+- 2024-06-05 15-35-48_frame_02286_erased.jpg
+- 2024-06-05 15-35-48_frame_02287_erased.jpg
+- 2024-06-05 15-35-48_frame_02288_erased.jpg
+- 2024-06-05 15-35-48_frame_02289_erased.jpg
+- 2024-06-05 15-35-48_frame_02290_erased.jpg
+- 2024-06-05 15-35-48_frame_02291_erased.jpg
+- 2024-06-05 15-35-48_frame_02292_erased.jpg
+- 2024-06-05 15-35-48_frame_02293_erased.jpg
+- 2024-06-05 15-35-48_frame_02294_erased.jpg
+- 2024-06-05 15-35-48_frame_02295_erased.jpg
+- 2024-06-05 15-35-48_frame_02296_erased.jpg
+- 2024-06-05 15-35-48_frame_02297_erased.jpg
+- 2024-06-05 15-35-48_frame_02298_erased.jpg
+- 2024-06-05 15-35-48_frame_02299_erased.jpg
+- 2024-06-05 15-35-48_frame_02300_erased.jpg
+- 2024-06-05 15-35-48_frame_02301_erased.jpg
+- 2024-06-05 15-35-48_frame_02302_erased.jpg
+- 2024-06-05 15-35-48_frame_02303_erased.jpg
+- 2024-06-05 15-35-48_frame_02304_erased.jpg
+- 2024-06-05 15-35-48_frame_02305_erased.jpg
+- 2024-06-05 15-35-48_frame_02306_erased.jpg
+- 2024-06-05 15-35-48_frame_02307_erased.jpg
+- 2024-06-05 15-35-48_frame_02308_erased.jpg
+- 2024-06-05 15-35-48_frame_02309_erased.jpg
+- 2024-06-05 15-35-48_frame_02310_erased.jpg
+- 2024-06-05 15-35-48_frame_02311_erased.jpg
+- 2024-06-05 15-35-48_frame_02312_erased.jpg
+- 2024-06-05 15-35-48_frame_02313_erased.jpg
+- 2024-06-05 15-35-48_frame_02314_erased.jpg
+- 2024-06-05 15-35-48_frame_02315_erased.jpg
+- 2024-06-05 15-35-48_frame_02316_erased.jpg
+- 2024-06-05 15-35-48_frame_02317_erased.jpg
+- 2024-06-05 15-35-48_frame_02318_erased.jpg
+- 2024-06-05 15-35-48_frame_02319_erased.jpg
+- 2024-06-05 15-35-48_frame_02320_erased.jpg
+- 2024-06-05 15-35-48_frame_02321_erased.jpg
+- 2024-06-05 15-35-48_frame_02322_erased.jpg
+- 2024-06-05 15-35-48_frame_02323_erased.jpg
+- 2024-06-05 15-35-48_frame_02324_erased.jpg
+- 2024-06-05 15-35-48_frame_02325_erased.jpg
+- 2024-06-05 15-35-48_frame_02326_erased.jpg
+- 2024-06-05 15-35-48_frame_02327_erased.jpg
+- 2024-06-05 15-35-48_frame_02328_erased.jpg
+- 2024-06-05 15-35-48_frame_02329_erased.jpg
+- 2024-06-05 15-35-48_frame_02330_erased.jpg
+- 2024-06-05 15-35-48_frame_02331_erased.jpg
+- 2024-06-05 15-35-48_frame_02332_erased.jpg
+- 2024-06-05 15-35-48_frame_02333_erased.jpg
+- 2024-06-05 15-35-48_frame_02334_erased.jpg
+- 2024-06-05 15-35-48_frame_02335_erased.jpg
+- 2024-06-05 15-35-48_frame_02336_erased.jpg
+- 2024-06-05 15-35-48_frame_02337_erased.jpg
+- 2024-06-05 15-35-48_frame_02338_erased.jpg
+- 2024-06-05 15-35-48_frame_02339_erased.jpg
+- 2024-06-05 15-35-48_frame_02340_erased.jpg
+- 2024-06-05 15-35-48_frame_02341_erased.jpg
+- 2024-06-05 15-35-48_frame_02342_erased.jpg
+- 2024-06-05 15-35-48_frame_02343_erased.jpg
+- 2024-06-05 15-35-48_frame_02344_erased.jpg
+- 2024-06-05 15-35-48_frame_02345_erased.jpg
+- 2024-06-05 15-35-48_frame_02346_erased.jpg
+- 2024-06-05 15-35-48_frame_02347_erased.jpg
+- 2024-06-05 15-35-48_frame_02348_erased.jpg
+- 2024-06-05 15-35-48_frame_02349_erased.jpg
+- 2024-06-05 15-35-48_frame_02350_erased.jpg
+- 2024-06-05 15-35-48_frame_02351_erased.jpg
+- 2024-06-05 15-35-48_frame_02352_erased.jpg
+- 2024-06-05 15-35-48_frame_02353_erased.jpg
+- 2024-06-05 15-35-48_frame_02354_erased.jpg
+- 2024-06-05 15-35-48_frame_02355_erased.jpg
+- 2024-06-05 15-35-48_frame_02356_erased.jpg
+- 2024-06-05 15-35-48_frame_02357_erased.jpg
+- 2024-06-05 15-35-48_frame_02358_erased.jpg
+- 2024-06-05 15-35-48_frame_02359_erased.jpg
+- 2024-06-05 15-35-48_frame_02360_erased.jpg
+- 2024-06-05 15-35-48_frame_02361_erased.jpg
+- 2024-06-05 15-35-48_frame_02362_erased.jpg
+- 2024-06-05 15-35-48_frame_02363_erased.jpg
+- 2024-06-05 15-35-48_frame_02364_erased.jpg
+- 2024-06-05 15-35-48_frame_02365_erased.jpg
+- 2024-06-05 15-35-48_frame_02366_erased.jpg
+- 2024-06-05 15-35-48_frame_02367_erased.jpg
+- 2024-06-05 15-35-48_frame_02368_erased.jpg
+- 2024-06-05 15-35-48_frame_02369_erased.jpg
+- 2024-06-05 15-35-48_frame_02370_erased.jpg
+- 2024-06-05 15-35-48_frame_02371_erased.jpg
+- 2024-06-05 15-35-48_frame_02372_erased.jpg
+- 2024-06-05 15-35-48_frame_02373_erased.jpg
+- 2024-06-05 15-35-48_frame_02374_erased.jpg
+- 2024-06-05 15-35-48_frame_02375_erased.jpg
+- 2024-06-05 15-35-48_frame_02376_erased.jpg
+- 2024-06-05 15-35-48_frame_02377_erased.jpg
+- 2024-06-05 15-35-48_frame_02378_erased.jpg
+- 2024-06-05 15-35-48_frame_02379_erased.jpg
+- 2024-06-05 15-35-48_frame_02380_erased.jpg
+- 2024-06-05 15-35-48_frame_02381_erased.jpg
+- 2024-06-05 15-35-48_frame_02382_erased.jpg
+- 2024-06-05 15-35-48_frame_02383_erased.jpg
+- 2024-06-05 15-35-48_frame_02384_erased.jpg
+- 2024-06-05 15-35-48_frame_02385_erased.jpg
+- 2024-06-05 15-35-48_frame_02386_erased.jpg
+- 2024-06-05 15-35-48_frame_02387_erased.jpg
+- 2024-06-05 15-35-48_frame_02388_erased.jpg
+- 2024-06-05 15-35-48_frame_02389_erased.jpg
+- 2024-06-05 15-35-48_frame_02390_erased.jpg
+- 2024-06-05 15-35-48_frame_02391_erased.jpg
+- 2024-06-05 15-35-48_frame_02392_erased.jpg
+- 2024-06-05 15-35-48_frame_02393_erased.jpg
+- 2024-06-05 15-35-48_frame_02394_erased.jpg
+- 2024-06-05 16-19-49_frame_00546_erased.jpg
+- 2024-06-05 16-19-49_frame_00547_erased.jpg
+- 2024-06-05 16-19-49_frame_00548_erased.jpg
+- 2024-06-05 16-19-49_frame_00549_erased.jpg
+- 2024-06-05 16-19-49_frame_00550_erased.jpg
+- 2024-06-05 16-19-49_frame_00551_erased.jpg
+- 2024-06-05 16-19-49_frame_00552_erased.jpg
+- 2024-06-05 16-19-49_frame_00553_erased.jpg
+- 2024-06-05 16-19-49_frame_00554_erased.jpg
+- 2024-06-05 16-19-49_frame_00555_erased.jpg
+- 2024-06-05 16-19-49_frame_00556_erased.jpg
+- 2024-06-05 16-19-49_frame_00557_erased.jpg
+- 2024-06-05 16-19-49_frame_00558_erased.jpg
+- 2024-06-05 16-19-49_frame_00559_erased.jpg
+- 2024-06-05 16-19-49_frame_00560_erased.jpg
+- 2024-06-11 16-16-55_frame_00001_erased.jpg
+- 2024-06-11 16-16-55_frame_00002_erased.jpg
+- 2024-06-11 16-16-55_frame_00003_erased.jpg
+- 2024-06-11 16-16-55_frame_00004_erased.jpg
+- 2024-06-11 16-16-55_frame_00005_erased.jpg
+- 2024-06-11 16-16-55_frame_00006_erased.jpg
+- 2024-06-11 16-16-55_frame_00007_erased.jpg
+- 2024-06-11 16-16-55_frame_00008_erased.jpg
+- 2024-06-11 16-16-55_frame_00009_erased.jpg
+- 2024-06-11 16-16-55_frame_00010_erased.jpg
+- 2024-06-11 16-16-55_frame_00011_erased.jpg
+- 2024-06-11 16-16-55_frame_00012_erased.jpg
+- 2024-06-11 16-16-55_frame_00013_erased.jpg
+- 2024-06-11 16-16-55_frame_00014_erased.jpg
+- 2024-06-11 16-16-55_frame_00015_erased.jpg
+- 2024-06-11 16-16-55_frame_00016_erased.jpg
+- 2024-06-11 16-16-55_frame_00017_erased.jpg
+- 2024-06-11 16-16-55_frame_00018_erased.jpg
+- 2024-06-11 16-16-55_frame_00019_erased.jpg
+- 2024-06-11 16-16-55_frame_00020_erased.jpg
+- 2024-06-11 16-16-55_frame_00021_erased.jpg
+- 2024-06-11 16-16-55_frame_00022_erased.jpg
+- 2024-06-11 16-16-55_frame_00023_erased.jpg
+- 2024-06-11 16-16-55_frame_00024_erased.jpg
+- 2024-06-11 16-16-55_frame_00025_erased.jpg
+- 2024-06-11 16-16-55_frame_00026_erased.jpg
+- 2024-06-11 16-16-55_frame_00027_erased.jpg
+- 2024-06-11 16-16-55_frame_00028_erased.jpg
+- 2024-06-11 16-16-55_frame_00029_erased.jpg
+- 2024-06-11 16-16-55_frame_00030_erased.jpg
+- 2024-06-11 16-16-55_frame_00031_erased.jpg
+- 2024-06-11 16-16-55_frame_00032_erased.jpg
+- 2024-06-11 16-16-55_frame_00033_erased.jpg
+- 2024-06-11 16-16-55_frame_00034_erased.jpg
+- 2024-06-11 16-16-55_frame_00035_erased.jpg
+- 2024-06-11 16-16-55_frame_00036_erased.jpg
+- 2024-06-11 16-16-55_frame_00037_erased.jpg
+- 2024-06-11 16-16-55_frame_00038_erased.jpg
+- 2024-06-11 16-16-55_frame_00039_erased.jpg
+- 2024-06-11 16-16-55_frame_00040_erased.jpg
+- 2024-06-11 16-16-55_frame_00041_erased.jpg
+- 2024-06-11 16-16-55_frame_00042_erased.jpg
+- 2024-06-11 16-16-55_frame_00043_erased.jpg
+- 2024-06-11 16-16-55_frame_00044_erased.jpg
+- 2024-06-11 16-16-55_frame_00045_erased.jpg
+- 2024-06-11 16-16-55_frame_00046_erased.jpg
+- 2024-06-11 16-16-55_frame_00047_erased.jpg
+- 2024-06-11 16-16-55_frame_00048_erased.jpg
+- 2024-06-11 16-16-55_frame_00049_erased.jpg
+- 2024-06-11 16-16-55_frame_00050_erased.jpg
+- 2024-06-11 16-16-55_frame_00051_erased.jpg
+- 2024-06-11 16-16-55_frame_00052_erased.jpg
+- 2024-06-11 16-16-55_frame_00053_erased.jpg
+- 2024-06-11 16-16-55_frame_00054_erased.jpg
+- 2024-06-11 16-16-55_frame_00055_erased.jpg
+- 2024-06-11 16-16-55_frame_00056_erased.jpg
+- 2024-06-11 16-16-55_frame_00057_erased.jpg
+- 2024-06-11 16-16-55_frame_00058_erased.jpg
+- 2024-06-11 16-16-55_frame_00059_erased.jpg
+- 2024-06-11 16-16-55_frame_00060_erased.jpg
+- 2024-06-11 16-16-55_frame_00061_erased.jpg
+- 2024-06-11 16-16-55_frame_00062_erased.jpg
+- 2024-06-11 16-16-55_frame_00063_erased.jpg
+- 2024-06-11 16-16-55_frame_00838_erased.jpg
+- 2024-06-11 16-16-55_frame_00839_erased.jpg
+- 2024-06-11 16-16-55_frame_00840_erased.jpg
+- 2024-06-11 16-16-55_frame_00841_erased.jpg
+- 2024-06-11 16-16-55_frame_00842_erased.jpg
+- 2024-06-11 16-16-55_frame_00843_erased.jpg
+- 2024-06-11 16-16-55_frame_00844_erased.jpg
+- 2024-06-11 16-16-55_frame_00845_erased.jpg
+- 2024-06-11 16-16-55_frame_00847_erased.jpg
+- 2024-06-11 16-16-55_frame_00848_erased.jpg
+- 2024-06-11 16-16-55_frame_00849_erased.jpg
+- 2024-06-11 16-16-55_frame_00850_erased.jpg
+- 2024-06-11 16-16-55_frame_00851_erased.jpg
+- 2024-06-11 16-16-55_frame_00852_erased.jpg
+- 2024-06-11 16-16-55_frame_00853_erased.jpg
+- 2024-06-11 16-16-55_frame_00854_erased.jpg
+- 2024-06-11 16-16-55_frame_00856_erased.jpg
+- 2024-06-11 16-16-55_frame_00857_erased.jpg
+- 2024-06-11 16-16-55_frame_00858_erased.jpg
+- 2024-06-11 16-16-55_frame_00859_erased.jpg
+- 2024-06-11 16-16-55_frame_00860_erased.jpg
+- 2024-06-11 16-16-55_frame_00861_erased.jpg
+- 2024-06-11 16-16-55_frame_00862_erased.jpg
+- 2024-06-11 16-16-55_frame_00863_erased.jpg
+- 2024-06-11 16-22-07_frame_00106_erased.jpg
+- 2024-06-11 16-22-07_frame_00107_erased.jpg
+- 2024-06-11 16-22-07_frame_00108_erased.jpg
+- 2024-06-11 16-22-07_frame_00109_erased.jpg
+- 2024-06-11 16-22-07_frame_00110_erased.jpg
+- 2024-06-11 16-22-07_frame_00111_erased.jpg
+- 2024-06-11 16-22-07_frame_00112_erased.jpg
+- 2024-06-11 16-22-07_frame_00113_erased.jpg
+- 2024-06-11 16-22-07_frame_00114_erased.jpg
+- 2024-06-11 16-22-07_frame_00115_erased.jpg
+- 2024-06-11 16-22-07_frame_00116_erased.jpg
+- 2024-06-11 16-22-07_frame_00117_erased.jpg
+- 2024-06-11 16-22-07_frame_00118_erased.jpg
+- 2024-06-11 16-22-07_frame_00119_erased.jpg
+- 2024-06-11 16-22-07_frame_00120_erased.jpg
+- 2024-06-11 16-22-07_frame_00121_erased.jpg
+- 2024-06-11 16-22-07_frame_00122_erased.jpg
+- 2024-06-11 16-22-07_frame_00123_erased.jpg
+- 2024-06-11 16-22-07_frame_00124_erased.jpg
+- 2024-06-11 16-22-07_frame_00125_erased.jpg
+- 2024-06-11 16-22-07_frame_00126_erased.jpg
+- 2024-06-11 16-22-07_frame_00127_erased.jpg
+- 2024-06-11 16-22-07_frame_00128_erased.jpg
+- 2024-06-11 16-22-07_frame_00129_erased.jpg
+- 2024-06-11 16-22-07_frame_00130_erased.jpg
+- 2024-06-11 16-22-07_frame_00131_erased.jpg
+- 2024-06-11 16-22-07_frame_00132_erased.jpg
+- 2024-06-11 16-22-07_frame_00133_erased.jpg
+- 2024-06-11 16-22-07_frame_00134_erased.jpg
+- 2024-06-11 16-22-07_frame_00135_erased.jpg
+- 2024-06-11 16-22-07_frame_00771_erased.jpg
+- 2024-06-11 16-22-07_frame_00772_erased.jpg
+- 2024-06-11 16-22-07_frame_00773_erased.jpg
+- 2024-06-11 16-22-07_frame_00774_erased.jpg
+- 2024-06-11 16-22-07_frame_00776_erased.jpg
+- 2024-06-11 16-22-07_frame_00777_erased.jpg
+- 2024-06-11 16-22-07_frame_00778_erased.jpg
+- 2024-06-11 16-22-07_frame_00779_erased.jpg
+- 2024-06-11 16-22-07_frame_00781_erased.jpg
+- 2024-06-11 16-22-07_frame_00782_erased.jpg
+- 2024-06-11 16-22-07_frame_00783_erased.jpg
+- 2024-06-11 16-22-07_frame_00784_erased.jpg
+- 2024-06-11 16-22-07_frame_00786_erased.jpg
+- 2024-06-11 16-22-07_frame_00787_erased.jpg
+- 2024-06-11 16-22-07_frame_00788_erased.jpg
+- 2024-06-11 16-22-07_frame_00791_erased.jpg
+- 2024-06-11 16-22-07_frame_00792_erased.jpg
+- 2024-06-11 16-22-07_frame_00793_erased.jpg
+- 2024-06-11 16-22-07_frame_00794_erased.jpg
+- 2024-06-11 16-22-07_frame_01631_erased.jpg
+- 2024-06-11 16-22-07_frame_01632_erased.jpg
+- 2024-06-11 16-22-07_frame_01633_erased.jpg
+- 2024-06-11 16-22-07_frame_01634_erased.jpg
+- 2024-06-11 16-22-07_frame_01635_erased.jpg
+- 2024-06-11 16-22-07_frame_01636_erased.jpg
+- 2024-06-11 16-22-07_frame_01637_erased.jpg
+- 2024-06-11 16-22-07_frame_01638_erased.jpg
+- 2024-06-11 16-22-07_frame_01639_erased.jpg
+- 2024-06-11 16-22-07_frame_01640_erased.jpg
+- 2024-06-11 16-22-07_frame_01641_erased.jpg
+- 2024-06-11 16-22-07_frame_01642_erased.jpg
+- 2024-06-11 16-22-07_frame_01643_erased.jpg
+- 2024-06-11 16-22-07_frame_01644_erased.jpg
+- 2024-06-11 16-22-07_frame_01645_erased.jpg
+- 2024-06-11 16-22-07_frame_01646_erased.jpg
+- 2024-06-11 16-22-07_frame_01647_erased.jpg
+- 2024-06-11 16-22-07_frame_01648_erased.jpg
+- 2024-06-11 16-22-07_frame_01649_erased.jpg
+- 2024-06-11 16-22-07_frame_01650_erased.jpg
+- 2024-06-11 16-22-07_frame_01651_erased.jpg
+- 2024-06-11 16-22-07_frame_01652_erased.jpg
+- 2024-06-11 16-22-07_frame_01653_erased.jpg
+- 2024-06-11 16-22-07_frame_01654_erased.jpg
+- 2024-06-11 16-22-07_frame_01655_erased.jpg
+- 2024-06-11 16-22-07_frame_01656_erased.jpg
+- 2024-06-11 16-22-07_frame_01657_erased.jpg
+- 2024-06-11 16-22-07_frame_01658_erased.jpg
+- 2024-06-11 16-22-07_frame_01659_erased.jpg
+- 2024-06-11 16-22-07_frame_01660_erased.jpg
+- 2024-06-11 16-22-07_frame_01661_erased.jpg
+- 2024-06-11 16-22-07_frame_01662_erased.jpg
+- 2024-06-11 16-22-07_frame_01663_erased.jpg
+- 2024-06-11 16-22-07_frame_01664_erased.jpg
+- 2024-06-11 16-22-07_frame_01665_erased.jpg
+- 2024-06-11 16-22-07_frame_01666_erased.jpg
+- 2024-06-11 16-22-07_frame_01667_erased.jpg
+- 2024-06-11 16-22-07_frame_01668_erased.jpg
+- 2024-06-11 16-22-07_frame_01669_erased.jpg
+- 2024-06-11 16-22-07_frame_01670_erased.jpg
+- 2024-06-11 16-22-07_frame_01671_erased.jpg
+- 2024-06-11 16-22-07_frame_01672_erased.jpg
+- 2024-06-11 16-22-07_frame_01673_erased.jpg
+- 2024-06-11 16-22-07_frame_01674_erased.jpg
+- 2024-06-11 16-22-07_frame_01675_erased.jpg
+- 2024-06-11 16-22-07_frame_01676_erased.jpg
+- 2024-06-11 16-22-07_frame_01677_erased.jpg
+- 2024-06-11 16-22-07_frame_01678_erased.jpg
+- 2024-06-11 16-22-07_frame_01679_erased.jpg
+- 2024-06-11 16-22-07_frame_01680_erased.jpg
+- 2024-06-11 16-22-07_frame_01681_erased.jpg
+- 2024-06-11 16-22-07_frame_01682_erased.jpg
+- 2024-06-11 16-22-07_frame_01683_erased.jpg
+- 2024-06-11 16-22-07_frame_01684_erased.jpg
+- 2024-06-11 16-22-07_frame_01685_erased.jpg
+- 2024-06-11 16-22-07_frame_01686_erased.jpg
+- 2024-06-11 16-22-07_frame_01687_erased.jpg
+- 2024-06-11 16-22-07_frame_01688_erased.jpg
+- 2024-06-11 16-22-07_frame_01689_erased.jpg
+- 2024-06-11 16-22-07_frame_01690_erased.jpg
+- 2024-06-11 16-22-07_frame_01691_erased.jpg
+- 2024-06-11 16-22-07_frame_01692_erased.jpg
+- 2024-06-11 16-22-07_frame_01693_erased.jpg
+- 2024-06-11 16-22-07_frame_01694_erased.jpg
+- 2024-06-11 16-22-07_frame_01695_erased.jpg
+- 2024-06-11 16-22-07_frame_01696_erased.jpg
+- 2024-06-11 16-22-07_frame_01697_erased.jpg
+- 2024-06-11 16-22-07_frame_01698_erased.jpg
+- 2024-06-11 16-22-07_frame_01699_erased.jpg
+- 2024-06-11 16-22-07_frame_01700_erased.jpg
+- 2024-06-11 16-22-07_frame_01701_erased.jpg
+- 2024-06-11 16-22-07_frame_01702_erased.jpg
+- 2024-06-11 16-22-07_frame_01703_erased.jpg
+- 2024-06-11 16-22-07_frame_01704_erased.jpg
+- 2024-06-11 16-22-07_frame_01705_erased.jpg
+- 2024-06-11 16-22-07_frame_02106_erased.jpg
+- 2024-06-11 16-22-07_frame_02107_erased.jpg
+- 2024-06-11 16-22-07_frame_02108_erased.jpg
+- 2024-06-11 16-22-07_frame_02109_erased.jpg
+- 2024-06-11 16-22-07_frame_02110_erased.jpg
+- 2024-06-11 16-22-07_frame_02111_erased.jpg
+- 2024-06-11 16-22-07_frame_02112_erased.jpg
+- 2024-06-11 16-22-07_frame_02113_erased.jpg
+- 2024-06-11 16-22-07_frame_02114_erased.jpg
+- 2024-06-11 16-22-07_frame_02115_erased.jpg
+- 2024-06-11 16-22-07_frame_02116_erased.jpg
+- 2024-06-11 16-22-07_frame_02117_erased.jpg
+- 2024-06-11 16-22-07_frame_02118_erased.jpg
+- 2024-06-11 16-22-07_frame_02119_erased.jpg
+- 2024-06-11 16-22-07_frame_02120_erased.jpg
+- 2024-06-11 16-22-07_frame_02121_erased.jpg
+- 2024-06-11 16-22-07_frame_02122_erased.jpg
+- 2024-06-11 16-22-07_frame_02123_erased.jpg
+- 2024-06-11 16-22-07_frame_02124_erased.jpg
+- 2024-06-11 16-22-07_frame_02125_erased.jpg
+- 2024-06-11 17-35-58_frame_00686_erased.jpg
+- 2024-06-11 17-35-58_frame_00687_erased.jpg
+- 2024-06-11 17-35-58_frame_00688_erased.jpg
+- 2024-06-11 17-35-58_frame_00689_erased.jpg
+- 2024-06-11 17-35-58_frame_00690_erased.jpg
+- 2024-06-11 17-35-58_frame_00691_erased.jpg
+- 2024-06-11 17-35-58_frame_00692_erased.jpg
+- 2024-06-11 17-35-58_frame_00693_erased.jpg
+- 2024-06-11 17-35-58_frame_00694_erased.jpg
+- 2024-06-11 17-35-58_frame_00695_erased.jpg
+- 2024-06-11 17-35-58_frame_00696_erased.jpg
+- 2024-06-11 17-35-58_frame_00697_erased.jpg
+- 2024-06-11 17-35-58_frame_00698_erased.jpg
+- 2024-06-11 17-35-58_frame_00699_erased.jpg
+- 2024-06-11 17-35-58_frame_00700_erased.jpg
+- 2024-06-11 17-35-58_frame_00701_erased.jpg
+- 2024-06-11 17-35-58_frame_00702_erased.jpg
+- 2024-06-11 17-35-58_frame_00703_erased.jpg
+- 2024-06-11 17-35-58_frame_00704_erased.jpg
+- 2024-06-11 17-35-58_frame_00705_erased.jpg
+- 2024-06-11 17-35-58_frame_00706_erased.jpg
+- 2024-06-11 17-35-58_frame_00707_erased.jpg
+- 2024-06-11 17-35-58_frame_00708_erased.jpg
+- 2024-06-11 17-35-58_frame_00709_erased.jpg
+- 2024-06-11 17-35-58_frame_00710_erased.jpg
+- 2024-06-11 17-40-52_frame_00066_erased.jpg
+- 2024-06-11 17-40-52_frame_00067_erased.jpg
+- 2024-06-11 17-40-52_frame_00068_erased.jpg
+- 2024-06-11 17-40-52_frame_00069_erased.jpg
+- 2024-06-11 17-40-52_frame_00070_erased.jpg
+- 2024-06-11 17-40-52_frame_00071_erased.jpg
+- 2024-06-11 17-40-52_frame_00072_erased.jpg
+- 2024-06-11 17-40-52_frame_00073_erased.jpg
+- 2024-06-11 17-40-52_frame_00074_erased.jpg
+- 2024-06-11 17-40-52_frame_00075_erased.jpg
+- 2024-06-11 17-40-52_frame_00076_erased.jpg
+- 2024-06-11 17-40-52_frame_00077_erased.jpg
+- 2024-06-11 17-40-52_frame_00078_erased.jpg
+- 2024-06-11 17-40-52_frame_00079_erased.jpg
+- 2024-06-11 17-40-52_frame_00080_erased.jpg
+- 2024-06-11 17-40-52_frame_00081_erased.jpg
+- 2024-06-11 17-40-52_frame_00082_erased.jpg
+- 2024-06-11 17-40-52_frame_00083_erased.jpg
+- 2024-06-11 17-40-52_frame_00084_erased.jpg
+- 2024-06-11 17-40-52_frame_00085_erased.jpg
+- 2024-06-11 17-40-52_frame_00086_erased.jpg
+- 2024-06-11 17-40-52_frame_00087_erased.jpg
+- 2024-06-11 17-40-52_frame_00088_erased.jpg
+- 2024-06-11 17-40-52_frame_00089_erased.jpg
+- 2024-06-11 17-40-52_frame_00090_erased.jpg
+- 2024-06-11 17-40-52_frame_00091_erased.jpg
+- 2024-06-11 17-40-52_frame_00092_erased.jpg
+- 2024-06-11 17-40-52_frame_00093_erased.jpg
+- 2024-06-11 17-40-52_frame_00094_erased.jpg
+- 2024-06-11 17-40-52_frame_00095_erased.jpg
+- 2024-06-11 17-40-52_frame_00096_erased.jpg
+- 2024-06-11 17-40-52_frame_00097_erased.jpg
+- 2024-06-11 17-40-52_frame_00098_erased.jpg
+- 2024-06-11 17-40-52_frame_00099_erased.jpg
+- 2024-06-11 17-40-52_frame_00100_erased.jpg
+- 2024-06-11 17-40-52_frame_00101_erased.jpg
+- 2024-06-11 17-40-52_frame_00102_erased.jpg
+- 2024-06-11 17-40-52_frame_00103_erased.jpg
+- 2024-06-11 17-40-52_frame_00104_erased.jpg
+- 2024-06-11 17-40-52_frame_00105_erased.jpg
+- 2024-06-11 17-40-52_frame_00106_erased.jpg
+- 2024-06-11 17-40-52_frame_00107_erased.jpg
+- 2024-06-11 17-40-52_frame_00108_erased.jpg
+- 2024-06-11 17-40-52_frame_00109_erased.jpg
+- 2024-06-11 17-40-52_frame_00110_erased.jpg
+- 2024-06-11 17-40-52_frame_00111_erased.jpg
+- 2024-06-11 17-40-52_frame_00112_erased.jpg
+- 2024-06-11 17-40-52_frame_00113_erased.jpg
+- 2024-06-11 17-40-52_frame_00114_erased.jpg
+- 2024-06-11 17-40-52_frame_00115_erased.jpg
+- 2024-06-11 17-40-52_frame_00116_erased.jpg
+- 2024-06-11 17-40-52_frame_00117_erased.jpg
+- 2024-06-11 17-40-52_frame_00118_erased.jpg
+- 2024-06-11 17-40-52_frame_00120_erased.jpg
+- 2024-06-11 17-40-52_frame_00331_erased.jpg
+- 2024-06-11 17-40-52_frame_00332_erased.jpg
+- 2024-06-11 17-40-52_frame_00333_erased.jpg
+- 2024-06-11 17-40-52_frame_00334_erased.jpg
+- 2024-06-11 17-40-52_frame_00335_erased.jpg
+- 2024-06-11 17-40-52_frame_00336_erased.jpg
+- 2024-06-11 17-40-52_frame_00337_erased.jpg
+- 2024-06-11 17-40-52_frame_00338_erased.jpg
+- 2024-06-11 17-40-52_frame_00339_erased.jpg
+- 2024-06-11 17-40-52_frame_00340_erased.jpg
+- 2024-06-11 17-40-52_frame_00341_erased.jpg
+- 2024-06-11 17-40-52_frame_00342_erased.jpg
+- 2024-06-11 17-40-52_frame_00343_erased.jpg
+- 2024-06-11 17-40-52_frame_00344_erased.jpg
+- 2024-06-11 17-40-52_frame_00345_erased.jpg
+- 2024-06-11 17-40-52_frame_00346_erased.jpg
+- 2024-06-11 17-40-52_frame_00347_erased.jpg
+- 2024-06-11 17-40-52_frame_00348_erased.jpg
+- 2024-06-11 17-40-52_frame_00349_erased.jpg
+- 2024-06-11 17-40-52_frame_00350_erased.jpg
+- 2024-06-11 17-40-52_frame_00351_erased.jpg
+- 2024-06-11 17-40-52_frame_00352_erased.jpg
+- 2024-06-11 17-40-52_frame_00353_erased.jpg
+- 2024-06-11 17-40-52_frame_00354_erased.jpg
+- 2024-06-11 17-40-52_frame_00355_erased.jpg
+- 2024-06-11 17-40-52_frame_00356_erased.jpg
+- 2024-06-11 17-40-52_frame_00357_erased.jpg
+- 2024-06-11 17-40-52_frame_00358_erased.jpg
+- 2024-06-11 17-40-52_frame_00359_erased.jpg
+- 2024-06-11 17-40-52_frame_00360_erased.jpg
+- 2024-06-11 17-40-52_frame_00361_erased.jpg
+- 2024-06-11 17-40-52_frame_00362_erased.jpg
+- 2024-06-11 17-40-52_frame_00363_erased.jpg
+- 2024-06-11 17-40-52_frame_00364_erased.jpg
+- 2024-06-11 17-40-52_frame_00365_erased.jpg
+- 2024-06-11 17-40-52_frame_00366_erased.jpg
+- 2024-06-11 17-40-52_frame_00367_erased.jpg
+- 2024-06-11 17-40-52_frame_00368_erased.jpg
+- 2024-06-11 17-40-52_frame_00369_erased.jpg
+- 2024-06-11 17-40-52_frame_00370_erased.jpg
+- 2024-06-11 17-40-52_frame_00371_erased.jpg
+- 2024-06-11 17-40-52_frame_00372_erased.jpg
+- 2024-06-11 17-40-52_frame_00373_erased.jpg
+- 2024-06-11 17-40-52_frame_00374_erased.jpg
+- 2024-06-11 17-40-52_frame_00375_erased.jpg
+- 2024-06-11 17-40-52_frame_00376_erased.jpg
+- 2024-06-11 17-40-52_frame_00377_erased.jpg
+- 2024-06-11 17-40-52_frame_00378_erased.jpg
+- 2024-06-11 17-40-52_frame_00379_erased.jpg
+- 2024-06-11 17-40-52_frame_00380_erased.jpg
+- 2024-06-11 17-40-52_frame_00381_erased.jpg
+- 2024-06-11 17-40-52_frame_00382_erased.jpg
+- 2024-06-11 17-40-52_frame_00383_erased.jpg
+- 2024-06-11 17-40-52_frame_00384_erased.jpg
+- 2024-06-11 17-40-52_frame_00385_erased.jpg
+- 2024-06-11 17-40-52_frame_00386_erased.jpg
+- 2024-06-11 17-40-52_frame_00387_erased.jpg
+- 2024-06-11 17-40-52_frame_00388_erased.jpg
+- 2024-06-11 17-40-52_frame_00389_erased.jpg
+- 2024-06-11 17-40-52_frame_00390_erased.jpg
+- 2024-06-11 17-40-52_frame_00391_erased.jpg
+- 2024-06-11 17-40-52_frame_00392_erased.jpg
+- 2024-06-11 17-40-52_frame_00393_erased.jpg
+- 2024-06-11 17-40-52_frame_00394_erased.jpg
+- 2024-06-11 17-40-52_frame_00395_erased.jpg
+- 2024-06-11 17-40-52_frame_00396_erased.jpg
+- 2024-06-11 17-40-52_frame_00397_erased.jpg
+- 2024-06-11 17-40-52_frame_00398_erased.jpg
+- 2024-06-11 17-40-52_frame_00399_erased.jpg
+- 2024-06-11 17-40-52_frame_00400_erased.jpg
+- 2024-06-11 17-46-10_frame_00001_erased.jpg
+- 2024-06-11 17-46-10_frame_00002_erased.jpg
+- 2024-06-11 17-46-10_frame_00003_erased.jpg
+- 2024-06-11 17-46-10_frame_00004_erased.jpg
+- 2024-06-11 17-46-10_frame_00005_erased.jpg
+- 2024-06-11 17-46-10_frame_00006_erased.jpg
+- 2024-06-11 17-46-10_frame_00007_erased.jpg
+- 2024-06-11 17-46-10_frame_00008_erased.jpg
+- 2024-06-11 17-46-10_frame_00009_erased.jpg
+- 2024-06-11 17-46-10_frame_00010_erased.jpg
+- 2024-06-11 17-46-10_frame_00011_erased.jpg
+- 2024-06-11 17-46-10_frame_00012_erased.jpg
+- 2024-06-11 17-46-10_frame_00013_erased.jpg
+- 2024-06-11 17-46-10_frame_00014_erased.jpg
+- 2024-06-11 17-46-10_frame_00015_erased.jpg
+- 2024-06-11 17-46-10_frame_00016_erased.jpg
+- 2024-06-11 17-46-10_frame_00017_erased.jpg
+- 2024-06-11 17-46-10_frame_00018_erased.jpg
+- 2024-06-11 17-46-10_frame_00019_erased.jpg
+- 2024-06-11 17-46-10_frame_00020_erased.jpg
+- 2024-06-11 17-46-10_frame_00021_erased.jpg
+- 2024-06-11 17-46-10_frame_00022_erased.jpg
+- 2024-06-11 17-46-10_frame_00023_erased.jpg
+- 2024-06-11 17-46-10_frame_00024_erased.jpg
+- 2024-06-11 17-46-10_frame_00025_erased.jpg
+- 2024-06-11 17-46-10_frame_01406_erased.jpg
+- 2024-06-11 17-46-10_frame_01407_erased.jpg
+- 2024-06-11 17-46-10_frame_01408_erased.jpg
+- 2024-06-11 17-46-10_frame_01409_erased.jpg
+- 2024-06-11 17-46-10_frame_01410_erased.jpg
+- 2024-06-11 17-46-10_frame_01411_erased.jpg
+- 2024-06-11 17-46-10_frame_01412_erased.jpg
+- 2024-06-11 17-46-10_frame_01413_erased.jpg
+- 2024-06-11 17-46-10_frame_01414_erased.jpg
+- 2024-06-11 17-46-10_frame_01415_erased.jpg
+- 2024-06-11 17-46-10_frame_01416_erased.jpg
+- 2024-06-11 17-46-10_frame_01417_erased.jpg
+- 2024-06-11 17-46-10_frame_01418_erased.jpg
+- 2024-06-11 17-46-10_frame_01419_erased.jpg
+- 2024-06-11 17-46-10_frame_01420_erased.jpg
+- 2024-06-11 17-46-10_frame_01421_erased.jpg
+- 2024-06-11 17-46-10_frame_01422_erased.jpg
+- 2024-06-11 17-46-10_frame_01423_erased.jpg
+- 2024-06-11 17-46-10_frame_01424_erased.jpg
+- 2024-06-11 17-46-10_frame_01425_erased.jpg
+- bg_0001.jpg
+- bg_0002.jpg
+- bg_0003.jpg
+- bg_0004.jpg
+- bg_0005.jpg
+- bg_0006.jpg
+- bg_0007.jpg
+- bg_0008.jpg
+- bg_0009.jpg
+- bg_0010.jpg
+- bg_0011.jpg
+- bg_0012.jpg
+- bg_0013.jpg
+- bg_0014.jpg
+- bg_0015.jpg
+- bg_0016.jpg
+- bg_0017.jpg
+- bg_0018.jpg
+- bg_0019.jpg
+- bg_0020.jpg
+- bg_0021.jpg
+- bg_0022.jpg
+- bg_0023.jpg
+- bg_0024.jpg
+- bg_0025.jpg
+- bg_0026.jpg
+- bg_0027.jpg
+- bg_0028.jpg
+- bg_0029.jpg
+- bg_0030.jpg
+- bg_0031.jpg
+- bg_0032.jpg
+- bg_0033.jpg
+- bg_0034.jpg
+- bg_0035.jpg
+- bg_0036.jpg
+- bg_0037.jpg
+- bg_0038.jpg
+- bg_0039.jpg
+- bg_0040.jpg
+- bg_0041.jpg
+- bg_0042.jpg
+- bg_0043.jpg
+- bg_0044.jpg
+- bg_0045.jpg
+- bg_0046.jpg
+- bg_0047.jpg
+- bg_0048.jpg
+- bg_0049.jpg
+- bg_0050.jpg
+- bg_0051.jpg
+- bg_0052.jpg
+- bg_0053.jpg
+- bg_0054.jpg
+- bg_0055.jpg
+- bg_0056.jpg
+- bg_0057.jpg
+- bg_0058.jpg
+- bg_0059.jpg
+- bg_0060.jpg
+- bg_0061.jpg
+- bg_0062.jpg
+- bg_0063.jpg
+- bg_0064.jpg
+- bg_0065.jpg
+- bg_0066.jpg
+- bg_0067.jpg
+- bg_0068.jpg
+- bg_0069.jpg
+- bg_0070.jpg
+- bg_0071.jpg
+- bg_0072.jpg
+- bg_0073.jpg
+- bg_0074.jpg
+- bg_0075.jpg
+- bg_0076.jpg
+- bg_0077.jpg
+- bg_0078.jpg
+- bg_0079.jpg
+- bg_0080.jpg
+- bg_0081.jpg
+- bg_0082.jpg
+- bg_0083.jpg
+- bg_0084.jpg
+- bg_0085.jpg
+- bg_0086.jpg
+- bg_0087.jpg
+- bg_0088.jpg
+- bg_0089.jpg
+- bg_0090.jpg
+- bg_0091.jpg
+- bg_0092.jpg
+- bg_0093.jpg
+- bg_0094.jpg
+- bg_0095.jpg
+- bg_0096.jpg
+- bg_0097.jpg
+- bg_0098.jpg
+- bg_0099.jpg
+- bg_0100.jpg
+- bg_0101.jpg
+- bg_0102.jpg
+- bg_0103.jpg
+- bg_0104.jpg
+- bg_0105.jpg
+- bg_0106.jpg
+- bg_0107.jpg
+- bg_0108.jpg
+- bg_0109.jpg
+- bg_0110.jpg
+- bg_0111.jpg
+- bg_0112.jpg
+- bg_0113.jpg
+- bg_0114.jpg
+- bg_0115.jpg
+- bg_0116.jpg
+- bg_0117.jpg
+- bg_0118.jpg
+- bg_0119.jpg
+- bg_0120.jpg
+- bg_0121.jpg
+- bg_0122.jpg
+- bg_0123.jpg
+- bg_0124.jpg
+- bg_0125.jpg
+- bg_0126.jpg
+- bg_0127.jpg
+- bg_0128.jpg
+- bg_0129.jpg
+- bg_0130.jpg
+- bg_0131.jpg
+- bg_0132.jpg
+- bg_0133.jpg
+- bg_0134.jpg
+- bg_0135.jpg
+- bg_0136.jpg
+- bg_0137.jpg
+- bg_0138.jpg
+- bg_0139.jpg
+- bg_0140.jpg
+- bg_0141.jpg
+- bg_0142.jpg
+- bg_0143.jpg
+- bg_0144.jpg
+- bg_0145.jpg
+- bg_0146.jpg
+- bg_0147.jpg
+- bg_0148.jpg
+- bg_0149.jpg
+- bg_0150.jpg
+- bg_0151.jpg
+- bg_0152.jpg
+- bg_0153.jpg
+- bg_0154.jpg
+- bg_0155.jpg
+- bg_0156.jpg
+- bg_0157.jpg
+- bg_0158.jpg
+- bg_0159.jpg
+- bg_0160.jpg
+- bg_0161.jpg
+- bg_0162.jpg
+- bg_0163.jpg
+train_img:
+- 001ff375-2024-06-11_17-40-52_frame_00663.jpg
+- 016a9c3a-2024-06-05_15-35-48_frame_00923.jpg
+- 0297b83e-2024-06-11_16-22-07_frame_00793.jpg
+- 03389659-2024-06-11_17-46-10_frame_01125.jpg
+- 03bba01d-2024-06-05_15-35-48_frame_00319.jpg
+- 03c7e84a-2024-06-11_16-22-07_frame_02099.jpg
+- 043c42bc-2024-06-11_17-46-10_frame_00537.jpg
+- 043f312b-2024-06-11_17-46-10_frame_00545.jpg
+- 04e714b1-2024-06-05_16-19-49_frame_00002.jpg
+- 0527212e-2024-06-11_16-22-07_frame_01928.jpg
+- 059f5125-2024-06-05_16-19-49_frame_00523.jpg
+- 05b8f973-2024-06-05_15-35-48_frame_01068.jpg
+- 07618861-2024-06-11_17-46-10_frame_00508.jpg
+- 09831253-2024-06-11_17-40-52_frame_00283.jpg
+- 09c71e6b-2024-06-05_16-19-49_frame_00127.jpg
+- 0b2ec9c7-2024-06-11_16-22-07_frame_02478.jpg
+- 0b4cd8be-2024-06-11_16-22-07_frame_02143.jpg
+- 0ba59578-2024-06-11_16-22-07_frame_01924.jpg
+- 0bbf93a0-2024-06-11_17-35-58_frame_00168.jpg
+- 0c3874fe-2024-06-05_15-35-48_frame_02064.jpg
+- 0c958200-2024-06-11_17-35-58_frame_00868.jpg
+- 0c960fee-2024-06-11_17-46-10_frame_00496.jpg
+- 0cbb7411-2024-06-11_17-46-10_frame_00495.jpg
+- 0ceb7e31-2024-06-11_17-46-10_frame_00326.jpg
+- 0d2c1eb0-2024-06-11_17-46-10_frame_01470.jpg
+- 0da07916-2024-06-05_15-35-48_frame_00312.jpg
+- 0de85a64-2024-06-11_17-46-10_frame_00497.jpg
+- 0e111cde-2024-06-11_17-46-10_frame_01103.jpg
+- 0e44891c-2024-06-11_17-46-10_frame_00534.jpg
+- 0e56e1c7-2024-06-11_17-46-10_frame_01100.jpg
+- 0e95dcb3-2024-06-05_15-35-48_frame_00400.jpg
+- 0fdd1e74-2024-06-05_15-35-48_frame_02805.jpg
+- 0feb0cd5-2024-06-11_16-16-55_frame_00600.jpg
+- 10712432-2024-06-11_17-46-10_frame_00952.jpg
+- 10808dd5-2024-06-11_17-46-10_frame_00552.jpg
+- 11888d6c-2024-06-11_16-22-07_frame_01920.jpg
+- 1191e00e-2024-06-11_17-46-10_frame_01105.jpg
+- 121f7c78-2024-06-11_17-46-10_frame_01123.jpg
+- 122424e7-2024-06-11_17-46-10_frame_01122.jpg
+- 1296fec3-2024-06-05_15-35-48_frame_02063.jpg
+- 13240581-2024-06-11_17-46-10_frame_00337.jpg
+- 13315bcb-2024-06-11_17-46-10_frame_00510.jpg
+- 13b2ec74-2024-06-11_17-35-58_frame_00954.jpg
+- 13ffafe8-2024-06-11_17-46-10_frame_00475.jpg
+- 1468a04e-2024-06-11_17-46-10_frame_00499.jpg
+- 14c75ac0-2024-06-05_15-35-48_frame_00959.jpg
+- 15a60845-2024-06-05_16-19-49_frame_00328.jpg
+- 171337eb-2024-06-11_17-46-10_frame_00333.jpg
+- 1797e7f6-2024-06-11_17-35-58_frame_01291.jpg
+- 18c88926-2024-06-11_16-22-07_frame_00023.jpg
+- 18e1a2ad-2024-06-05_15-35-48_frame_00414.jpg
+- 18ec7e10-2024-06-11_17-46-10_frame_00474.jpg
+- 1958fd63-2024-06-11_17-46-10_frame_00316.jpg
+- 198b9969-2024-06-11_17-46-10_frame_00522.jpg
+- 1a5db149-2024-06-05_16-19-49_frame_00130.jpg
+- 1af87c29-2024-06-05_15-35-48_frame_00338.jpg
+- 1b892422-2024-06-11_16-16-55_frame_00338.jpg
+- 1e0f5c9c-2024-06-11_16-16-55_frame_00890.jpg
+- 1e8f9e5b-2024-06-11_17-46-10_frame_00525.jpg
+- 1eab60b7-2024-06-11_17-35-58_frame_00818.jpg
+- 1fe4a639-2024-06-05_15-35-48_frame_00416.jpg
+- 20e77bad-2024-06-05_15-35-48_frame_02434.jpg
+- 20eb5510-2024-06-11_17-40-52_frame_00323.jpg
+- 21df1784-2024-06-05_15-57-35_frame_00266.jpg
+- 21f85065-2024-06-05_16-19-49_frame_00131.jpg
+- 221980b2-2024-06-05_16-19-49_frame_00394.jpg
+- 22717f6e-2024-06-05_15-35-48_frame_00341.jpg
+- 2299a01f-2024-06-11_17-46-10_frame_00554.jpg
+- 22e4763c-2024-06-11_16-22-07_frame_01838.jpg
+- 231de5ba-2024-06-11_17-46-10_frame_00463.jpg
+- 23543c03-2024-06-05_15-35-48_frame_00336.jpg
+- 23d3ad76-2024-06-11_16-22-07_frame_02684.jpg
+- 24d62ca2-2024-06-11_16-16-55_frame_00476.jpg
+- 24dbff41-2024-06-11_16-22-07_frame_02084.jpg
+- 25532413-2024-06-05_15-35-48_frame_00334.jpg
+- 2636eb95-2024-06-05_15-35-48_frame_02808.jpg
+- 263aefe6-2024-06-11_17-46-10_frame_00516.jpg
+- 26c6687a-2024-06-05_16-19-49_frame_00527.jpg
+- 27349a92-2024-06-11_17-46-10_frame_01475.jpg
+- 275c8761-2024-06-05_15-57-35_frame_00123.jpg
+- 27e6ad86-2024-06-05_15-57-35_frame_00214.jpg
+- 29caedaf-2024-06-11_17-46-10_frame_00466.jpg
+- 2acdcd11-2024-06-11_16-16-55_frame_00157.jpg
+- 2af04de7-2024-06-05_15-57-35_frame_00139.jpg
+- 2b04ea5b-2024-06-11_16-22-07_frame_01849.jpg
+- 2c9c2db8-2024-06-05_15-35-48_frame_00951.jpg
+- 2cb26523-2024-06-11_17-46-10_frame_01050.jpg
+- 2d720a54-2024-06-11_16-22-07_frame_01823.jpg
+- 2de632f9-2024-06-11_17-46-10_frame_01130.jpg
+- 2e93bc2f-2024-06-11_17-40-52_frame_00318.jpg
+- 2f3efd8a-2024-06-05_16-19-49_frame_00135.jpg
+- 302f201d-2024-06-11_16-22-07_frame_02039.jpg
+- 303fa70a-2024-06-05_15-35-48_frame_02069.jpg
+- 30683b4a-2024-06-05_15-35-48_frame_02137.jpg
+- 3070d15e-2024-06-11_17-46-10_frame_00473.jpg
+- 308debab-2024-06-11_17-35-58_frame_00192.jpg
+- 31091ec8-2024-06-05_15-35-48_frame_01573.jpg
+- 31103217-2024-06-05_16-19-49_frame_00318.jpg
+- 3181ea05-2024-06-11_16-22-07_frame_00274.jpg
+- 333217cf-2024-06-05_16-19-49_frame_00522.jpg
+- 33595ec2-2024-06-11_16-22-07_frame_01850.jpg
+- 346afd9c-2024-06-11_17-46-10_frame_00318.jpg
+- 3473a867-2024-06-05_15-35-48_frame_01585.jpg
+- 349e3bc3-2024-06-11_17-35-58_frame_01013.jpg
+- 35350125-2024-06-11_17-40-52_frame_00514.jpg
+- 379e0627-2024-06-11_16-22-07_frame_00789.jpg
+- 38bf5eb3-2024-06-05_15-35-48_frame_02553.jpg
+- 38d5bafa-2024-06-05_15-35-48_frame_00399.jpg
+- 38efa441-2024-06-05_15-35-48_frame_00158.jpg
+- 39491aa7-2024-06-11_17-46-10_frame_00548.jpg
+- 39fa7fa8-2024-06-05_15-35-48_frame_00415.jpg
+- 3b193077-2024-06-11_17-46-10_frame_01118.jpg
+- 3b686ab4-2024-06-05_16-19-49_frame_00124.jpg
+- 3dbeacfb-2024-06-05_15-35-48_frame_02488.jpg
+- 3e21fec6-2024-06-11_17-46-10_frame_00319.jpg
+- 3eccde21-2024-06-11_16-22-07_frame_02481.jpg
+- 3f431d7a-2024-06-11_16-22-07_frame_00787.jpg
+- 3f6fd606-2024-06-11_17-46-10_frame_00530.jpg
+- 405d51ff-2024-06-05_16-19-49_frame_00134.jpg
+- 407754fb-2024-06-11_16-22-07_frame_01852.jpg
+- 40c77418-2024-06-05_15-35-48_frame_02128.jpg
+- 40dc5366-2024-06-11_16-16-55_frame_00401.jpg
+- 40dd0896-2024-06-11_17-46-10_frame_00461.jpg
+- 4246b45e-2024-06-11_16-22-07_frame_00278.jpg
+- 42ae1a27-2024-06-11_17-35-58_frame_00191.jpg
+- 42f7712b-2024-06-11_17-35-58_frame_00186.jpg
+- 4305574d-2024-06-05_15-35-48_frame_00971.jpg
+- 43b18dc2-2024-06-11_16-22-07_frame_02102.jpg
+- 4424c8bf-2024-06-11_17-46-10_frame_00483.jpg
+- 445ed5f6-2024-06-11_17-40-52_frame_00268.jpg
+- 44ebcaf2-2024-06-11_17-46-10_frame_00511.jpg
+- 44ef83f3-2024-06-05_15-35-48_frame_00432.jpg
+- 454376c3-2024-06-05_15-35-48_frame_02843.jpg
+- 455e25ba-2024-06-05_15-35-48_frame_02807.jpg
+- 46125e27-2024-06-11_16-22-07_frame_00786.jpg
+- 46b2975c-2024-06-05_15-35-48_frame_01104.jpg
+- 470d204d-2024-06-11_17-35-58_frame_00188.jpg
+- 478b98fb-2024-06-11_16-16-55_frame_00345.jpg
+- 48080ad4-2024-06-11_17-35-58_frame_01133.jpg
+- 4823d278-2024-06-05_15-35-48_frame_00401.jpg
+- 484fbfba-2024-06-05_15-57-35_frame_00008.jpg
+- 486d5c08-2024-06-11_17-46-10_frame_01098.jpg
+- 487f6905-2024-06-11_17-46-10_frame_00464.jpg
+- 488e1c2e-2024-06-11_17-35-58_frame_01290.jpg
+- 4938381d-2024-06-11_16-22-07_frame_00277.jpg
+- 4979a13d-2024-06-11_17-46-10_frame_00494.jpg
+- 49dccc45-2024-06-11_17-35-58_frame_00178.jpg
+- 4a3e2cc9-2024-06-11_17-46-10_frame_00334.jpg
+- 4a75aebe-2024-06-11_17-46-10_frame_00490.jpg
+- 4be80d97-2024-06-11_17-40-52_frame_00630.jpg
+- 4c32fa01-2024-06-11_17-35-58_frame_00962.jpg
+- 4c8f922a-2024-06-11_16-22-07_frame_00264.jpg
+- 4c9fd33a-2024-06-11_16-16-55_frame_00165.jpg
+- 4ccfa1db-2024-06-05_15-35-48_frame_00495.jpg
+- 4d234157-2024-06-05_16-19-49_frame_00524.jpg
+- 4d6f6c0f-2024-06-11_17-40-52_frame_00653.jpg
+- 4da65deb-2024-06-11_16-22-07_frame_01624.jpg
+- 4dc4979b-2024-06-11_17-46-10_frame_01099.jpg
+- 4df44e71-2024-06-11_17-46-10_frame_00467.jpg
+- 4e1c4341-2024-06-11_16-16-55_frame_00383.jpg
+- 4e3ab4c9-2024-06-11_17-46-10_frame_01106.jpg
+- 50c8344c-2024-06-11_17-46-10_frame_00471.jpg
+- 51d40999-2024-06-11_17-46-10_frame_01110.jpg
+- 5215d6c2-2024-06-11_17-35-58_frame_00838.jpg
+- 525226cc-2024-06-11_17-35-58_frame_00969.jpg
+- 52d0552d-2024-06-11_17-46-10_frame_01473.jpg
+- 52dffcc7-2024-06-11_16-16-55_frame_00204.jpg
+- 53437a88-2024-06-11_16-22-07_frame_02480.jpg
+- 539ed3ad-2024-06-05_15-35-48_frame_02065.jpg
+- 53a9cfdc-2024-06-05_15-35-48_frame_02860.jpg
+- 543811c2-2024-06-11_17-46-10_frame_00500.jpg
+- 54cbea65-2024-06-11_17-40-52_frame_00216.jpg
+- 550580d4-2024-06-11_17-46-10_frame_00491.jpg
+- 56b10839-2024-06-05_15-35-48_frame_00615.jpg
+- 56b5b2d6-2024-06-11_17-46-10_frame_00331.jpg
+- 56d7084f-2024-06-11_17-46-10_frame_00524.jpg
+- 57212a94-2024-06-11_17-46-10_frame_00484.jpg
+- 577cc902-2024-06-11_17-40-52_frame_00278.jpg
+- 58a6c59c-2024-06-05_15-35-48_frame_02443.jpg
+- 58e1c953-2024-06-11_16-22-07_frame_01889.jpg
+- 590213db-2024-06-05_15-35-48_frame_01329.jpg
+- 590b94f5-2024-06-11_17-40-52_frame_00771.jpg
+- 59b6a0e5-2024-06-11_16-16-55_frame_00607.jpg
+- 5a5ccc0c-2024-06-05_15-35-48_frame_00492.jpg
+- 5abc7a9c-2024-06-05_15-35-48_frame_02407.jpg
+- 5ae228f0-2024-06-11_17-46-10_frame_00501.jpg
+- 5b72b76c-2024-06-11_16-16-55_frame_00344.jpg
+- 5b833d34-2024-06-11_16-22-07_frame_00044.jpg
+- 5c439994-2024-06-11_17-35-58_frame_00187.jpg
+- 5eced70d-2024-06-05_16-19-49_frame_00324.jpg
+- 5f324663-2024-06-11_17-35-58_frame_00959.jpg
+- 5fd99895-2024-06-11_17-46-10_frame_01128.jpg
+- 60ea0760-2024-06-05_15-35-48_frame_02155.jpg
+- 61445498-2024-06-11_17-46-10_frame_01109.jpg
+- 6192d2c9-2024-06-05_15-57-35_frame_00114.jpg
+- 62546bea-2024-06-11_17-46-10_frame_00478.jpg
+- 6269a905-2024-06-11_17-46-10_frame_00547.jpg
+- 62a5c745-2024-06-11_17-46-10_frame_01048.jpg
+- 63a58a2c-2024-06-05_15-35-48_frame_00604.jpg
+- 63d4c565-2024-06-05_15-35-48_frame_00497.jpg
+- 65537e7a-2024-06-05_15-35-48_frame_00122.jpg
+- 65b9ad79-2024-06-05_16-19-49_frame_00459.jpg
+- 65d2e7da-2024-06-11_17-46-10_frame_00492.jpg
+- 65dd4ced-2024-06-11_17-46-10_frame_00517.jpg
+- 66ef4a8f-2024-06-05_15-35-48_frame_02425.jpg
+- 67691fe8-2024-06-05_15-35-48_frame_00886.jpg
+- 6a9357c7-2024-06-11_17-35-58_frame_00999.jpg
+- 6aaf03ef-2024-06-05_15-35-48_frame_02067.jpg
+- 6b689410-2024-06-05_15-35-48_frame_02182.jpg
+- 6c0d5924-2024-06-11_16-22-07_frame_02153.jpg
+- 6c2c5f57-2024-06-05_15-35-48_frame_00326.jpg
+- 6ccf3363-2024-06-11_16-22-07_frame_01868.jpg
+- 6d714890-2024-06-11_16-22-07_frame_02678.jpg
+- 6d98bb7d-2024-06-05_15-35-48_frame_02844.jpg
+- 6d99af27-2024-06-05_15-57-35_frame_00130.jpg
+- 6da49ea2-2024-06-11_17-46-10_frame_00549.jpg
+- 6ec9452b-2024-06-11_17-46-10_frame_00546.jpg
+- 6f22ad14-2024-06-11_16-22-07_frame_00276.jpg
+- 702e4d7c-2024-06-05_15-35-48_frame_00977.jpg
+- 70552a84-2024-06-11_17-46-10_frame_00330.jpg
+- 70c12adf-2024-06-05_15-35-48_frame_00292.jpg
+- 70e714aa-2024-06-05_15-35-48_frame_00446.jpg
+- 7140fb2c-2024-06-11_17-46-10_frame_00527.jpg
+- 716090a8-2024-06-05_15-35-48_frame_02068.jpg
+- 71bb0ae7-2024-06-11_17-46-10_frame_00515.jpg
+- 724a4223-2024-06-11_17-46-10_frame_00553.jpg
+- 72f3f6dc-2024-06-11_16-22-07_frame_02631.jpg
+- 73e8a6e1-2024-06-11_17-46-10_frame_00315.jpg
+- 740d08bc-2024-06-11_17-46-10_frame_00557.jpg
+- 743723d6-2024-06-11_16-22-07_frame_01563.jpg
+- 74973bce-2024-06-05_15-35-48_frame_02697.jpg
+- 74c5482f-2024-06-05_16-19-49_frame_00128.jpg
+- 75472aff-2024-06-11_17-46-10_frame_00485.jpg
+- 760feced-2024-06-05_15-35-48_frame_00402.jpg
+- 761eca1f-2024-06-11_16-22-07_frame_02203.jpg
+- 76ca11f2-2024-06-11_16-16-55_frame_00617.jpg
+- 7730f8a4-2024-06-05_15-35-48_frame_01266.jpg
+- 78f717ea-2024-06-11_17-46-10_frame_01120.jpg
+- 79b84dd2-2024-06-11_16-16-55_frame_00587.jpg
+- 7ab44317-2024-06-05_15-35-48_frame_02060.jpg
+- 7b7323ae-2024-06-11_17-46-10_frame_01132.jpg
+- 7bc7aa16-2024-06-11_17-40-52_frame_00770.jpg
+- 7c3ff694-2024-06-11_16-16-55_frame_00186.jpg
+- 7c6d7d49-2024-06-11_17-46-10_frame_01049.jpg
+- 7c9487c7-2024-06-11_17-46-10_frame_00482.jpg
+- 7cbaa408-2024-06-11_17-46-10_frame_00327.jpg
+- 7d2ed6a6-2024-06-05_15-57-35_frame_00110.jpg
+- 7dc0a255-2024-06-11_16-22-07_frame_02668.jpg
+- 7e170ae1-2024-06-11_16-16-55_frame_00365.jpg
+- 7e2ca048-2024-06-11_17-40-52_frame_00303.jpg
+- 7e540c8e-2024-06-11_17-46-10_frame_00465.jpg
+- 7e964f45-2024-06-11_16-22-07_frame_01969.jpg
+- 7f6404b7-2024-06-05_15-35-48_frame_00618.jpg
+- 809c2155-2024-06-11_16-22-07_frame_02681.jpg
+- 80f7fb62-2024-06-11_16-22-07_frame_01847.jpg
+- 81aa9116-2024-06-05_16-19-49_frame_00212.jpg
+- 81c7d6c7-2024-06-05_15-57-35_frame_00142.jpg
+- 8227db40-2024-06-05_16-19-49_frame_00129.jpg
+- 83315248-2024-06-11_16-22-07_frame_01884.jpg
+- 835b83e7-2024-06-05_15-35-48_frame_02543.jpg
+- 836657c1-2024-06-11_16-22-07_frame_00792.jpg
+- 84f115fd-2024-06-11_17-46-10_frame_00320.jpg
+- 850d55d4-2024-06-11_16-22-07_frame_02479.jpg
+- 8531f0d2-2024-06-11_16-16-55_frame_00230.jpg
+- 859776fd-2024-06-11_17-46-10_frame_00486.jpg
+- 85ef99c0-2024-06-11_17-40-52_frame_00288.jpg
+- 86299e92-2024-06-11_17-46-10_frame_00538.jpg
+- 874b0977-2024-06-11_16-16-55_frame_00174.jpg
+- 87ec9b9b-2024-06-11_16-16-55_frame_00545.jpg
+- 883742b5-2024-06-05_15-35-48_frame_01586.jpg
+- 88e81ba5-2024-06-05_15-35-48_frame_00462.jpg
+- 8906efff-2024-06-05_16-19-49_frame_00320.jpg
+- 8a0cc2dc-2024-06-05_15-35-48_frame_02507.jpg
+- 8a3aea3a-2024-06-11_17-46-10_frame_00539.jpg
+- 8a4629d8-2024-06-11_17-46-10_frame_00503.jpg
+- 8a50e109-2024-06-05_16-19-49_frame_00133.jpg
+- 8b8fb699-2024-06-05_15-35-48_frame_02506.jpg
+- 8bc307de-2024-06-11_16-22-07_frame_02687.jpg
+- 8c2348d7-2024-06-05_15-35-48_frame_02470.jpg
+- 8c421f6b-2024-06-11_16-16-55_frame_00167.jpg
+- 8cb1cdfd-2024-06-11_16-22-07_frame_02113.jpg
+- 8d40d606-2024-06-05_15-35-48_frame_02806.jpg
+- 8e0e0347-2024-06-11_16-22-07_frame_01883.jpg
+- 8e370552-2024-06-11_17-46-10_frame_01104.jpg
+- 8f929243-2024-06-11_17-40-52_frame_00639.jpg
+- 8fa0ac83-2024-06-11_17-46-10_frame_00514.jpg
+- 90511a6d-2024-06-05_15-35-48_frame_01587.jpg
+- 90a583bb-2024-06-05_15-35-48_frame_00311.jpg
+- 90a975af-2024-06-11_16-22-07_frame_00014.jpg
+- 918edf08-2024-06-11_17-35-58_frame_00978.jpg
+- 926d8a90-2024-06-11_17-35-58_frame_00829.jpg
+- 92b3fe57-2024-06-11_17-46-10_frame_01113.jpg
+- 92c3c415-2024-06-11_17-46-10_frame_00321.jpg
+- 930484a5-2024-06-11_16-22-07_frame_01569.jpg
+- 9313b6b5-2024-06-11_17-35-58_frame_01289.jpg
+- 9419a0fc-2024-06-11_17-46-10_frame_00468.jpg
+- 944aa3a9-2024-06-11_16-22-07_frame_01994.jpg
+- 949586a3-2024-06-11_17-46-10_frame_00502.jpg
+- 94d3c504-2024-06-11_17-46-10_frame_00481.jpg
+- 94ddc0d1-2024-06-11_16-16-55_frame_00177.jpg
+- 94f6f7ce-2024-06-05_15-35-48_frame_02859.jpg
+- 95129c85-2024-06-11_17-46-10_frame_01474.jpg
+- 95939637-2024-06-11_17-46-10_frame_00532.jpg
+- 96cf91cd-2024-06-05_16-19-49_frame_00197.jpg
+- 96d70ad4-2024-06-11_17-46-10_frame_01134.jpg
+- 96d9e310-2024-06-11_16-22-07_frame_01594.jpg
+- 978945e2-2024-06-11_17-46-10_frame_01112.jpg
+- 97ea3e9b-2024-06-11_17-46-10_frame_00335.jpg
+- 985caffe-2024-06-05_15-35-48_frame_00238.jpg
+- 987a1019-2024-06-05_15-35-48_frame_02066.jpg
+- 98daa80e-2024-06-11_17-46-10_frame_01126.jpg
+- 99f4c8d3-2024-06-11_17-46-10_frame_01127.jpg
+- 9a009d57-2024-06-11_17-46-10_frame_00526.jpg
+- 9a0f58dc-2024-06-05_15-35-48_frame_00213.jpg
+- 9a35d4a0-2024-06-05_15-35-48_frame_00005.jpg
+- 9a9f8471-2024-06-11_16-22-07_frame_01530.jpg
+- 9c011f91-2024-06-11_17-46-10_frame_01107.jpg
+- 9c1325b6-2024-06-11_17-46-10_frame_01116.jpg
+- 9dd9595c-2024-06-11_16-22-07_frame_00063.jpg
+- 9e36d2b4-2024-06-05_16-19-49_frame_00132.jpg
+- 9f1737d9-2024-06-11_16-22-07_frame_00078.jpg
+- 9f6a1055-2024-06-11_17-46-10_frame_01471.jpg
+- 9f85ead2-2024-06-11_17-35-58_frame_00853.jpg
+- a01d0a05-2024-06-11_16-16-55_frame_00248.jpg
+- a04f6905-2024-06-11_17-46-10_frame_01476.jpg
+- a11aad1f-2024-06-05_15-35-48_frame_00496.jpg
+- a12579ca-2024-06-11_16-16-55_frame_00584.jpg
+- a1d42ef0-2024-06-11_17-46-10_frame_01472.jpg
+- a1e3b00f-2024-06-11_16-16-55_frame_00419.jpg
+- a28225bc-2024-06-11_17-46-10_frame_00476.jpg
+- a3268daa-2024-06-11_17-35-58_frame_00190.jpg
+- a3a1d6c5-2024-06-11_17-46-10_frame_01124.jpg
+- a3ee2bd7-2024-06-11_16-16-55_frame_00593.jpg
+- a40f31c6-2024-06-11_16-22-07_frame_01854.jpg
+- a42b6d86-2024-06-05_15-35-48_frame_00321.jpg
+- a51de0c1-2024-06-05_15-35-48_frame_02209.jpg
+- a58ad759-2024-06-05_15-35-48_frame_01303.jpg
+- a6054de0-2024-06-05_15-35-48_frame_00390.jpg
+- a6316873-2024-06-11_17-46-10_frame_00521.jpg
+- a7dd78f7-2024-06-05_15-35-48_frame_00329.jpg
+- a85b8c2b-2024-06-11_17-46-10_frame_01121.jpg
+- a8c85bcf-2024-06-11_17-46-10_frame_00339.jpg
+- a93542af-2024-06-05_15-35-48_frame_00614.jpg
+- aa45d0a2-2024-06-11_17-46-10_frame_00332.jpg
+- ab87d899-2024-06-11_16-16-55_frame_00284.jpg
+- abab4730-2024-06-11_16-22-07_frame_01888.jpg
+- ac234e27-2024-06-11_16-16-55_frame_00611.jpg
+- ac4b226a-2024-06-11_17-46-10_frame_00551.jpg
+- acaf1ca6-2024-06-11_17-46-10_frame_01108.jpg
+- acb09fe2-2024-06-11_17-46-10_frame_00493.jpg
+- adcc4f7d-2024-06-11_17-46-10_frame_00323.jpg
+- adeeff8f-2024-06-11_16-22-07_frame_02682.jpg
+- ae8b1525-2024-06-05_15-35-48_frame_00332.jpg
+- af085f7a-2024-06-11_17-35-58_frame_00272.jpg
+- af5700ea-2024-06-11_16-22-07_frame_00791.jpg
+- b02cd349-2024-06-05_15-35-48_frame_00613.jpg
+- b070d092-2024-06-11_17-46-10_frame_00513.jpg
+- b1223678-2024-06-11_17-46-10_frame_00555.jpg
+- b1592d0f-2024-06-11_17-46-10_frame_00531.jpg
+- b19f81ea-2024-06-05_15-35-48_frame_00077.jpg
+- b1ac5bec-2024-06-11_16-16-55_frame_00159.jpg
+- b1ea28ba-2024-06-11_16-22-07_frame_02641.jpg
+- b20a573a-2024-06-05_15-35-48_frame_01579.jpg
+- b2406379-2024-06-11_17-46-10_frame_00469.jpg
+- b254ada7-2024-06-11_16-22-07_frame_01882.jpg
+- b394bc06-2024-06-11_17-46-10_frame_00322.jpg
+- b3dbfae6-2024-06-11_17-46-10_frame_00541.jpg
+- b40db3b2-2024-06-11_17-40-52_frame_00579.jpg
+- b5a170f9-2024-06-11_17-35-58_frame_01386.jpg
+- b5f16ffc-2024-06-11_16-22-07_frame_01843.jpg
+- b72d1b52-2024-06-11_17-46-10_frame_01102.jpg
+- b8526f9b-2024-06-11_17-46-10_frame_00556.jpg
+- b8a2c718-2024-06-11_17-40-52_frame_00364.jpg
+- b8ac6420-2024-06-11_17-46-10_frame_00536.jpg
+- b8e1d089-2024-06-11_17-40-52_frame_00772.jpg
+- b96adb42-2024-06-11_16-16-55_frame_00169.jpg
+- ba35d87c-2024-06-11_16-16-55_frame_00343.jpg
+- bafb1b0c-2024-06-11_16-22-07_frame_00788.jpg
+- bb6894d9-2024-06-11_16-16-55_frame_00624.jpg
+- bc101d18-2024-06-05_15-35-48_frame_01005.jpg
+- bc54b170-2024-06-11_17-46-10_frame_00472.jpg
+- bcfd45e6-2024-06-11_17-46-10_frame_00498.jpg
+- bd06d42f-2024-06-11_17-35-58_frame_01183.jpg
+- bd1da998-2024-06-11_17-40-52_frame_00773.jpg
+- bd5347ba-2024-06-11_17-46-10_frame_00533.jpg
+- bdb4db1e-2024-06-11_17-35-58_frame_00958.jpg
+- bdbe07c0-2024-06-11_17-35-58_frame_00271.jpg
+- be6f617e-2024-06-11_16-16-55_frame_00602.jpg
+- bed54440-2024-06-11_16-22-07_frame_00790.jpg
+- bef6cb96-2024-06-11_16-22-07_frame_00275.jpg
+- bf0948b6-2024-06-11_16-16-55_frame_00628.jpg
+- bf346804-2024-06-11_17-35-58_frame_00183.jpg
+- bf7790da-2024-06-05_16-19-49_frame_00521.jpg
+- bf7a69ae-2024-06-11_17-46-10_frame_00550.jpg
+- c0466538-2024-06-11_17-46-10_frame_00518.jpg
+- c05343e5-2024-06-11_16-16-55_frame_00484.jpg
+- c0b4253f-2024-06-11_17-40-52_frame_00319.jpg
+- c10e2cec-2024-06-11_17-46-10_frame_00487.jpg
+- c158ed55-2024-06-05_16-19-49_frame_00525.jpg
+- c16eef9c-2024-06-05_15-35-48_frame_00897.jpg
+- c1e90dc7-2024-06-11_17-46-10_frame_00480.jpg
+- c28a5470-2024-06-11_16-22-07_frame_02686.jpg
+- c3b30b69-2024-06-11_17-46-10_frame_00520.jpg
+- c3ce0b85-2024-06-05_15-35-48_frame_00276.jpg
+- c4a781d3-2024-06-05_15-35-48_frame_01589.jpg
+- c4c0a075-2024-06-05_15-35-48_frame_00391.jpg
+- c590492c-2024-06-11_17-46-10_frame_00528.jpg
+- c60ab002-2024-06-11_17-46-10_frame_01133.jpg
+- c6177b48-2024-06-05_15-35-48_frame_02542.jpg
+- c61c1418-2024-06-11_17-35-58_frame_00270.jpg
+- c679b0c9-2024-06-11_17-46-10_frame_00512.jpg
+- c6cbcc6f-2024-06-05_15-35-48_frame_00389.jpg
+- c6da6bd9-2024-06-11_17-40-52_frame_00633.jpg
+- c708364b-2024-06-11_17-35-58_frame_00189.jpg
+- c76b4d9d-2024-06-05_15-35-48_frame_00482.jpg
+- c76b6753-2024-06-11_17-35-58_frame_00878.jpg
+- c83b5db1-2024-06-11_17-46-10_frame_01129.jpg
+- c8caacf4-2024-06-05_15-35-48_frame_01032.jpg
+- c8fff8d5-2024-06-11_17-35-58_frame_01089.jpg
+- c988cf20-2024-06-11_16-22-07_frame_02484.jpg
+- c9fc9913-2024-06-11_17-46-10_frame_00336.jpg
+- ca35df9f-2024-06-05_15-35-48_frame_00324.jpg
+- ca45d2a5-2024-06-11_17-46-10_frame_00338.jpg
+- ccb25a5c-2024-06-11_16-22-07_frame_02119.jpg
+- cd26c370-2024-06-11_17-46-10_frame_00462.jpg
+- ced105c8-2024-06-05_15-35-48_frame_00314.jpg
+- cf52f401-2024-06-11_17-46-10_frame_00477.jpg
+train_launcher: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Launchers\train.bat
+val_bg:
+- bg_0164.jpg
+- bg_0165.jpg
+- bg_0166.jpg
+- bg_0167.jpg
+- bg_0168.jpg
+- bg_0169.jpg
+- bg_0170.jpg
+- bg_0171.jpg
+- bg_0172.jpg
+- bg_0173.jpg
+- bg_0174.jpg
+- bg_0175.jpg
+- bg_0176.jpg
+- bg_0177.jpg
+- bg_0178.jpg
+- bg_0179.jpg
+- bg_0180.jpg
+- bg_0181.jpg
+- bg_0182.jpg
+- bg_0183.jpg
+- bg_0184.jpg
+- bg_0185.jpg
+- bg_0186.jpg
+- bg_0187.jpg
+- bg_0188.jpg
+- bg_0189.jpg
+- bg_0190.jpg
+- bg_0191.jpg
+- bg_0192.jpg
+- bg_0193.jpg
+- bg_0194.jpg
+- bg_0195.jpg
+- bg_0196.jpg
+- bg_0197.jpg
+- bg_0198.jpg
+- bg_0199.jpg
+- bg_0200.jpg
+- bg_0201.jpg
+- bg_0202.jpg
+- bg_0203.jpg
+- bg_0204.jpg
+- bg_0205.jpg
+- bg_0206.jpg
+- bg_0207.jpg
+- bg_0208.jpg
+- bg_0209.jpg
+- bg_0210.jpg
+- bg_0211.jpg
+- bg_0212.jpg
+- bg_0213.jpg
+- bg_0214.jpg
+- bg_0215.jpg
+- bg_0216.jpg
+- bg_0217.jpg
+- bg_0218.jpg
+- bg_0219.jpg
+- bg_0220.jpg
+- bg_0221.jpg
+- bg_0222.jpg
+- bg_0223.jpg
+- bg_0224.jpg
+- bg_0225.jpg
+- bg_0226.jpg
+- bg_0227.jpg
+- bg_0228.jpg
+- bg_0229.jpg
+- bg_0230.jpg
+- bg_0231.jpg
+- bg_0232.jpg
+- bg_0233.jpg
+- bg_0234.jpg
+- bg_0235.jpg
+- bg_0236.jpg
+- bg_0237.jpg
+- bg_0238.jpg
+- bg_0239.jpg
+- bg_0240.jpg
+- bg_0241.jpg
+- bg_0242.jpg
+- bg_0243.jpg
+- bg_0244.jpg
+- bg_0245.jpg
+- bg_0246.jpg
+- bg_0247.jpg
+- bg_0248.jpg
+- bg_0249.jpg
+- bg_0250.jpg
+- bg_0251.jpg
+- bg_0252.jpg
+- bg_0253.jpg
+- bg_0254.jpg
+- bg_0255.jpg
+- bg_0256.jpg
+- bg_0257.jpg
+- bg_0258.jpg
+- bg_0259.jpg
+- bg_0260.jpg
+- bg_0261.jpg
+- bg_0262.jpg
+- bg_0263.jpg
+- bg_0264.jpg
+- bg_0265.jpg
+- bg_0266.jpg
+- bg_0267.jpg
+- bg_0268.jpg
+- bg_0269.jpg
+- bg_0270.jpg
+- bg_0271.jpg
+- bg_0272.jpg
+- bg_0273.jpg
+- bg_0274.jpg
+- bg_0275.jpg
+- bg_0276.jpg
+- bg_0277.jpg
+- bg_0278.jpg
+- bg_0279.jpg
+- bg_0280.jpg
+- bg_0281.jpg
+- bg_0282.jpg
+- bg_0283.jpg
+- bg_0284.jpg
+- bg_0285.jpg
+- bg_0286.jpg
+- bg_0287.jpg
+- bg_0288.jpg
+- bg_0289.jpg
+- bg_0290.jpg
+- bg_0291.jpg
+- bg_0292.jpg
+- bg_0293.jpg
+- bg_0294.jpg
+- bg_0295.jpg
+- bg_0296.jpg
+- bg_0297.jpg
+- bg_0298.jpg
+val_img:
+- cfa71195-2024-06-11_17-46-10_frame_00328.jpg
+- cfb5166a-2024-06-05_15-35-48_frame_00403.jpg
+- d06e3ca9-2024-06-05_15-35-48_frame_02524.jpg
+- d1a6b537-2024-06-05_15-35-48_frame_00345.jpg
+- d1ceb256-2024-06-05_15-35-48_frame_02564.jpg
+- d20f2506-2024-06-11_17-35-58_frame_00193.jpg
+- d248b1fa-2024-06-11_16-16-55_frame_00356.jpg
+- d291d4a0-2024-06-05_15-35-48_frame_02061.jpg
+- d2b13ece-2024-06-05_15-35-48_frame_02809.jpg
+- d2df0e69-2024-06-11_16-22-07_frame_02108.jpg
+- d2e104d8-2024-06-11_17-46-10_frame_01117.jpg
+- d36cc7bc-2024-06-11_16-22-07_frame_02483.jpg
+- d3a7f047-2024-06-11_17-46-10_frame_00542.jpg
+- d3ac4560-2024-06-11_17-40-52_frame_00322.jpg
+- d5086b45-2024-06-11_17-46-10_frame_00506.jpg
+- d5905fac-2024-06-11_17-46-10_frame_00470.jpg
+- d5df12fb-2024-06-05_15-35-48_frame_00419.jpg
+- d71f2304-2024-06-11_16-22-07_frame_02688.jpg
+- d7279432-2024-06-11_16-16-55_frame_00573.jpg
+- d731046e-2024-06-11_17-46-10_frame_00314.jpg
+- d7c65314-2024-06-05_15-35-48_frame_01582.jpg
+- d7d2b040-2024-06-11_16-16-55_frame_00510.jpg
+- da8ffd0f-2024-06-11_16-22-07_frame_00138.jpg
+- daaa85e1-2024-06-11_17-35-58_frame_00002.jpg
+- dc3298e4-2024-06-11_16-22-07_frame_01949.jpg
+- dca43c52-2024-06-11_17-46-10_frame_00523.jpg
+- dcfe28b5-2024-06-05_15-35-48_frame_02544.jpg
+- dd2ca9eb-2024-06-11_17-46-10_frame_00504.jpg
+- dd6b9096-2024-06-11_17-40-52_frame_00320.jpg
+- ddb9cdb2-2024-06-05_15-35-48_frame_02580.jpg
+- de619282-2024-06-05_15-35-48_frame_02380.jpg
+- df49997f-2024-06-05_15-35-48_frame_02958.jpg
+- dfda52b2-2024-06-11_17-46-10_frame_00535.jpg
+- e0f9b762-2024-06-05_15-35-48_frame_00392.jpg
+- e16e6c32-2024-06-11_16-22-07_frame_01954.jpg
+- e1fa7074-2024-06-11_16-22-07_frame_00068.jpg
+- e23c86e7-2024-06-11_17-40-52_frame_00409.jpg
+- e25df239-2024-06-05_15-35-48_frame_02497.jpg
+- e2823a3a-2024-06-11_16-16-55_frame_00418.jpg
+- e29b2383-2024-06-11_17-46-10_frame_00519.jpg
+- e2ff3a09-2024-06-05_15-35-48_frame_00603.jpg
+- e38b53ac-2024-06-11_17-46-10_frame_00488.jpg
+- e432934a-2024-06-11_17-40-52_frame_00215.jpg
+- e547daf0-2024-06-11_17-46-10_frame_01051.jpg
+- e637246c-2024-06-05_15-35-48_frame_02062.jpg
+- e6681c33-2024-06-11_17-46-10_frame_00543.jpg
+- e69bb177-2024-06-05_15-35-48_frame_00023.jpg
+- e6cff8f2-2024-06-11_17-46-10_frame_00509.jpg
+- e7f18cf3-2024-06-11_17-46-10_frame_01101.jpg
+- e87d078c-2024-06-05_15-35-48_frame_00953.jpg
+- e8b821ea-2024-06-05_15-35-48_frame_00956.jpg
+- e98e5670-2024-06-11_16-16-55_frame_00193.jpg
+- ea6001bb-2024-06-11_16-16-55_frame_00842.jpg
+- ea7c497c-2024-06-11_16-16-55_frame_00590.jpg
+- ea8288e3-2024-06-11_16-22-07_frame_02482.jpg
+- eb626eb6-2024-06-11_17-46-10_frame_00329.jpg
+- eb6f4c49-2024-06-05_16-19-49_frame_00319.jpg
+- ebca8a6a-2024-06-05_15-35-48_frame_00418.jpg
+- ed089359-2024-06-11_17-46-10_frame_00959.jpg
+- ed138fcc-2024-06-11_17-40-52_frame_00321.jpg
+- ed714fc1-2024-06-11_17-46-10_frame_00507.jpg
+- ee6d17d0-2024-06-11_17-46-10_frame_01131.jpg
+- ee88e69d-2024-06-11_16-22-07_frame_00273.jpg
+- eed8dc18-2024-06-11_17-40-52_frame_00298.jpg
+- ef0d7028-2024-06-05_15-35-48_frame_00494.jpg
+- ef54a04b-2024-06-11_17-46-10_frame_00489.jpg
+- effbf8d1-2024-06-11_17-40-52_frame_00365.jpg
+- f0be5f44-2024-06-11_16-22-07_frame_02683.jpg
+- f0c70887-2024-06-11_16-22-07_frame_02128.jpg
+- f0ded99c-2024-06-11_17-46-10_frame_01119.jpg
+- f10f2675-2024-06-11_17-46-10_frame_00529.jpg
+- f10faa3f-2024-06-05_15-35-48_frame_00969.jpg
+- f21aa6a7-2024-06-11_17-46-10_frame_00317.jpg
+- f234654b-2024-06-05_15-35-48_frame_01194.jpg
+- f2734034-2024-06-11_17-46-10_frame_00544.jpg
+- f289b553-2024-06-05_15-35-48_frame_02508.jpg
+- f31b17b0-2024-06-11_17-35-58_frame_01292.jpg
+- f3901eff-2024-06-11_17-40-52_frame_00524.jpg
+- f478fa34-2024-06-05_15-35-48_frame_02862.jpg
+- f4ef76f2-2024-06-11_16-22-07_frame_02133.jpg
+- f61799a2-2024-06-05_15-35-48_frame_00435.jpg
+- f6862ab0-2024-06-11_17-46-10_frame_01114.jpg
+- f6e2f7bc-2024-06-11_16-22-07_frame_01918.jpg
+- f717efb4-2024-06-05_15-35-48_frame_02861.jpg
+- f77dbf1e-2024-06-11_16-22-07_frame_01858.jpg
+- f7cee997-2024-06-05_15-35-48_frame_00438.jpg
+- f834f3c3-2024-06-11_17-46-10_frame_00324.jpg
+- f84b9d92-2024-06-05_15-57-35_frame_00133.jpg
+- f9ccdfd2-2024-06-11_16-22-07_frame_02685.jpg
+- fa64e9b8-2024-06-11_16-22-07_frame_00794.jpg
+- fad637d4-2024-06-11_17-46-10_frame_00505.jpg
+- fb423fe0-2024-06-05_15-35-48_frame_00417.jpg
+- fb6b51ae-2024-06-11_17-46-10_frame_01115.jpg
+- fc1716ec-2024-06-11_16-22-07_frame_02213.jpg
+- fc7a5fd2-2024-06-11_17-46-10_frame_00540.jpg
+- fcbf7015-2024-06-11_17-46-10_frame_00479.jpg
+- fcfdf658-2024-06-11_17-40-52_frame_00534.jpg
+- fd3a7cba-2024-06-11_17-35-58_frame_00823.jpg
+- fe390a81-2024-06-11_17-46-10_frame_00325.jpg
+- fe854df8-2024-06-11_17-35-58_frame_00018.jpg
+- febad7cc-2024-06-05_15-35-48_frame_00387.jpg
+- ff1287a2-2024-06-11_16-22-07_frame_01922.jpg
+- ff2a43c5-2024-06-11_16-22-07_frame_02663.jpg
+- ff3a03fd-2024-06-11_17-46-10_frame_01111.jpg
+- ff9858be-2024-06-05_15-35-48_frame_01293.jpg
+weights_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Weights
+y_folder_path: yolov5
+yamls_folder: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Config
+yolov5l_classes_config_yaml: C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Config\yolov5l_classes_config.yaml

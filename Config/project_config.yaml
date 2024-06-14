@@ -1,0 +1,49 @@
+1-PATHS:
+  BACKGROUND_DIR: C:\ConceivableProjects\Hamilton_aspiration\bg\0.0.1-t
+  DETECT_DIR: C:\Users\PC KAIJU\ConceivableProjectsTools\FrameSampler\Hamilton_aspiration\v1\mp4s\test
+  PROJECT_DIR: C:\ConceivableProjects\Hamilton_aspiration
+  VAL_DATA: C
+  WEIGHTS_DIR: C:\ConceivableProjects\Hamilton_aspiration\v0.0.11\Weights\best.pt
+2-PROJECT_CONFIG:
+  BATCH_SIZE: 40
+  BG_DATA_DISTRIBUTION: 0.9
+  CLASS_NAMES:
+    0: cell
+    1: stripper_tip
+  CROSS_VAL: false
+  DETECT: false
+  EPOCHS: 120
+  EXPORT: true
+  PROJECT_NAME: v0.0.2
+  TRAIN: true
+  TRAIN_DATA_DISTRIBUTION: 0.8
+  VALIDATE_OLD_MODEL: false
+3-HYPS:
+  anchor_t: 2.0
+  box: 0.05
+  cls: 0.5
+  cls_pw: 5
+  copy_paste: 0.0
+  degrees: 5
+  fl_gamma: 0.0
+  fliplr: 0.0
+  flipud: 0.0
+  hsv_h: 0.1
+  hsv_s: 0.25
+  hsv_v: 0.25
+  iou_t: 0.4
+  lr0: 0.001
+  lrf: 0.01
+  mixup: 0.0
+  momentum: 0.937
+  mosaic: 1.0
+  obj: 0.7
+  obj_pw: 5
+  perspective: 0.0
+  scale: 0.2
+  shear: 0
+  translate: 0.1
+  warmup_bias_lr: 0.1
+  warmup_epochs: 3.0
+  warmup_momentum: 0.8
+  weight_decay: 0.0005
