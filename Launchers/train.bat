@@ -1,0 +1,3 @@
+@echo off 
+cd "C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Code" 
+python train.py --batch 40 --epochs 120 --hyp "C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Config\hyps.yaml" --optimizer SGD --device cuda:0 --cfg "C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Config\yolov5l_classes_config.yaml" --data "C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Config\data_location.yaml" --imgsz 640 --weights "C:\ConceivableProjects\Hamilton_aspiration\v0.0.2\Weights\pre.pt" --cache
